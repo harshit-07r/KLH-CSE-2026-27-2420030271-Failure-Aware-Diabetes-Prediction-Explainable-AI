@@ -96,15 +96,6 @@ The project includes an interactive dashboard for:
 * Model performance analysis
 * Prediction interpretation
 
-## Installation
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
-```
-
 ## Project Team
 
 | University ID | Name              |
