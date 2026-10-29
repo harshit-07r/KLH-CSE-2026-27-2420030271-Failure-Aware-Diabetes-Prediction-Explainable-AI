@@ -1,0 +1,715 @@
+rel_path,filename,category,role,size_bytes,last_modified
+.gitignore,.gitignore,Miscellaneous,Supporting artifact,762,2026-10-29 09:22:54
+AUDIT_FINDINGS.md,AUDIT_FINDINGS.md,Documentation / Manuscript,Research documentation,6559,2026-10-12 12:23:44
+audit_project.py,audit_project.py,Source Code / Script,Pipeline / Analysis module,10864,2026-10-07 12:42:40
+backup_pre_audit_pass.zip,backup_pre_audit_pass.zip,Miscellaneous,Supporting artifact,472076259,2026-10-12 12:10:14
+build_complete_audit_package.py,build_complete_audit_package.py,Source Code / Script,Pipeline / Analysis module,14602,2026-10-12 11:31:49
+build_v2_package.py,build_v2_package.py,Source Code / Script,Pipeline / Analysis module,8155,2026-10-07 12:43:22
+build_verification_reports.py,build_verification_reports.py,Source Code / Script,Pipeline / Analysis module,13320,2026-10-12 11:57:20
+COMPLETE_PROJECT_AUDIT_PACKAGE.zip,COMPLETE_PROJECT_AUDIT_PACKAGE.zip,Miscellaneous,Supporting artifact,55074678,2026-10-12 12:25:05
+create_audit_package.py,create_audit_package.py,Source Code / Script,Pipeline / Analysis module,3772,2026-10-08 08:56:37
+create_reports.py,create_reports.py,Source Code / Script,Pipeline / Analysis module,4902,2026-10-08 08:57:43
+DASHBOARD_VERIFICATION_REPORT.md,DASHBOARD_VERIFICATION_REPORT.md,Documentation / Manuscript,Research documentation,2769,2026-10-12 12:23:44
+execute_phase1_audit.py,execute_phase1_audit.py,Source Code / Script,Pipeline / Analysis module,13257,2026-10-29 11:36:44
+execute_pipeline.py,execute_pipeline.py,Source Code / Script,Pipeline / Analysis module,1492,2026-10-06 23:17:15
+EXPLAINABILITY_AND_FAILURE_ANALYSIS_AUDIT.md,EXPLAINABILITY_AND_FAILURE_ANALYSIS_AUDIT.md,Documentation / Manuscript,Research documentation,2592,2026-10-12 12:23:44
+extracted_master_prompt.txt,extracted_master_prompt.txt,Documentation / Manuscript,Research documentation,20125,2026-10-28 22:29:52
+finalize_audit_files.py,finalize_audit_files.py,Source Code / Script,Pipeline / Analysis module,5270,2026-10-12 10:38:02
+FINAL_READINESS_MATRIX.csv,FINAL_READINESS_MATRIX.csv,Data / Table,Supporting data,2628,2026-10-12 12:23:44
+FINAL_RECOMMENDATIONS.md,FINAL_RECOMMENDATIONS.md,Documentation / Manuscript,Research documentation,2968,2026-10-12 12:23:44
+fix.py,fix.py,Source Code / Script,Pipeline / Analysis module,656,2026-10-06 21:49:38
+fix2.py,fix2.py,Source Code / Script,Pipeline / Analysis module,723,2026-10-06 22:11:57
+fix3.py,fix3.py,Source Code / Script,Pipeline / Analysis module,443,2026-10-06 22:47:41
+fix4.py,fix4.py,Source Code / Script,Pipeline / Analysis module,450,2026-10-06 22:49:07
+fix5.py,fix5.py,Source Code / Script,Pipeline / Analysis module,597,2026-10-06 23:22:31
+fix_script.py,fix_script.py,Source Code / Script,Pipeline / Analysis module,226,2026-10-07 12:20:03
+gather_stats.py,gather_stats.py,Source Code / Script,Pipeline / Analysis module,1101,2026-10-06 23:36:40
+generate_evidence_package.py,generate_evidence_package.py,Source Code / Script,Pipeline / Analysis module,113881,2026-10-07 12:20:44
+generate_master_audit_deliverables.py,generate_master_audit_deliverables.py,Source Code / Script,Pipeline / Analysis module,73600,2026-10-12 12:21:23
+generate_paper_rewrite_files.py,generate_paper_rewrite_files.py,Source Code / Script,Pipeline / Analysis module,13344,2026-10-12 10:33:50
+generate_verification_pass_files.py,generate_verification_pass_files.py,Source Code / Script,Pipeline / Analysis module,8433,2026-10-12 11:55:05
+gen_nb02.py,gen_nb02.py,Source Code / Script,Pipeline / Analysis module,13902,2026-10-06 21:24:28
+gen_nb03_06.py,gen_nb03_06.py,Source Code / Script,Pipeline / Analysis module,34541,2026-10-06 21:49:38
+gen_nb07_10.py,gen_nb07_10.py,Source Code / Script,Pipeline / Analysis module,41397,2026-10-06 21:49:38
+gen_nb11_14.py,gen_nb11_14.py,Source Code / Script,Pipeline / Analysis module,23819,2026-10-06 21:49:38
+gen_nb12_ablation.py,gen_nb12_ablation.py,Source Code / Script,Pipeline / Analysis module,7404,2026-10-06 23:20:52
+gen_nb15_16.py,gen_nb15_16.py,Source Code / Script,Pipeline / Analysis module,8133,2026-10-06 21:32:51
+LEAKAGE_AND_SPLIT_AUDIT.md,LEAKAGE_AND_SPLIT_AUDIT.md,Documentation / Manuscript,Research documentation,3599,2026-10-12 12:23:44
+live_dashboard_prediction.png,live_dashboard_prediction.png,Publication Figure,Visual analytics output,107456,2026-10-28 21:33:46
+MANUSCRIPT_CLAIM_AUDIT.md,MANUSCRIPT_CLAIM_AUDIT.md,Documentation / Manuscript,Research documentation,4064,2026-10-12 12:23:44
+MANUSCRIPT_REWRITE_FILES.zip,MANUSCRIPT_REWRITE_FILES.zip,Miscellaneous,Supporting artifact,15080223,2026-10-12 11:11:26
+METRIC_RECONCILIATION.md,METRIC_RECONCILIATION.md,Documentation / Manuscript,Research documentation,3785,2026-10-12 12:23:44
+MISSING_ARTIFACTS_REPORT.md,MISSING_ARTIFACTS_REPORT.md,Documentation / Manuscript,Research documentation,5096,2026-10-12 12:23:44
+notebook_details.json,notebook_details.json,Miscellaneous,Supporting artifact,122308,2026-10-28 22:33:17
+oof_weight_correction_report.md,oof_weight_correction_report.md,Documentation / Manuscript,Research documentation,808,2026-10-12 11:43:33
+OPTIMIZATION_HISTORY_AUDIT.md,OPTIMIZATION_HISTORY_AUDIT.md,Documentation / Manuscript,Research documentation,2150,2026-10-12 12:23:44
+pipeline_output.txt,pipeline_output.txt,Documentation / Manuscript,Research documentation,1424,2026-10-06 23:18:22
+plot_final_comparison.py,plot_final_comparison.py,Source Code / Script,Pipeline / Analysis module,6266,2026-10-07 10:07:37
+project_config.yaml,project_config.yaml,Configuration,Experiment configuration,3049,2026-10-06 21:41:20
+PROJECT_KNOWLEDGE_PACKAGE.zip,PROJECT_KNOWLEDGE_PACKAGE.zip,Miscellaneous,Supporting artifact,61496,2026-10-28 22:44:27
+PUBLICATION_AUDIT_PACKAGE.zip,PUBLICATION_AUDIT_PACKAGE.zip,Miscellaneous,Supporting artifact,162087221,2026-10-08 09:04:44
+push_all_teammates.py,push_all_teammates.py,Source Code / Script,Pipeline / Analysis module,876,2026-10-29 09:38:15
+README.md,README.md,Documentation / Manuscript,Research documentation,4707,2026-10-06 21:33:56
+REPRODUCIBILITY_REPORT.md,REPRODUCIBILITY_REPORT.md,Documentation / Manuscript,Research documentation,2242,2026-10-12 12:23:44
+requirements.txt,requirements.txt,Documentation / Manuscript,Research documentation,599,2026-10-06 21:46:50
+REQUIREMENTS_TRACEABILITY.csv,REQUIREMENTS_TRACEABILITY.csv,Data / Table,Supporting data,9212,2026-10-12 12:23:41
+RESEARCH_FIGURES.zip,RESEARCH_FIGURES.zip,Miscellaneous,Supporting artifact,9839132,2026-10-28 21:54:57
+run_corrected_stacking_and_package.py,run_corrected_stacking_and_package.py,Source Code / Script,Pipeline / Analysis module,10740,2026-10-12 11:09:12
+run_exp_02.py,run_exp_02.py,Source Code / Script,Pipeline / Analysis module,13081,2026-10-07 09:23:55
+run_exp_03.py,run_exp_03.py,Source Code / Script,Pipeline / Analysis module,9276,2026-10-07 09:38:22
+run_exp_audit_weight_fix.py,run_exp_audit_weight_fix.py,Source Code / Script,Pipeline / Analysis module,8008,2026-10-07 12:41:11
+run_statistical_validation.py,run_statistical_validation.py,Source Code / Script,Pipeline / Analysis module,8771,2026-10-12 11:51:42
+scratch_build_notebooks.py,scratch_build_notebooks.py,Source Code / Script,Pipeline / Analysis module,13657,2026-10-06 21:22:19
+screenshot.png,screenshot.png,Publication Figure,Visual analytics output,5742,2026-10-28 21:30:43
+screenshot_v2.png,screenshot_v2.png,Publication Figure,Visual analytics output,8376,2026-10-28 21:31:05
+SOURCE_FILE_INVENTORY.csv,SOURCE_FILE_INVENTORY.csv,Data / Table,Supporting data,101648,2026-10-12 12:23:41
+SOURCE_TO_RESULT_TRACEABILITY.md,SOURCE_TO_RESULT_TRACEABILITY.md,Documentation / Manuscript,Research documentation,4911,2026-10-12 12:23:44
+STATISTICAL_RECONCILIATION.md,STATISTICAL_RECONCILIATION.md,Documentation / Manuscript,Research documentation,3416,2026-10-12 12:23:44
+TEST_PREDICTIONS_MASTER.csv,TEST_PREDICTIONS_MASTER.csv,Data / Table,Supporting data,33935360,2026-10-12 11:09:51
+VERIFIED_RECOMPUTED_METRICS.csv,VERIFIED_RECOMPUTED_METRICS.csv,Data / Table,Supporting data,3708,2026-10-12 12:23:44
+COMPLETE_PROJECT_AUDIT_PACKAGE\FINAL_READINESS_MATRIX.csv,FINAL_READINESS_MATRIX.csv,Data / Table,Supporting data,2628,2026-10-12 12:23:44
+COMPLETE_PROJECT_AUDIT_PACKAGE\SOURCE_TO_RESULT_TRACEABILITY.md,SOURCE_TO_RESULT_TRACEABILITY.md,Documentation / Manuscript,Research documentation,4911,2026-10-12 12:23:44
+COMPLETE_PROJECT_AUDIT_PACKAGE\00_EXECUTIVE_SUMMARY\AUDIT_FINDINGS.md,AUDIT_FINDINGS.md,Documentation / Manuscript,Research documentation,6559,2026-10-12 12:23:44
+COMPLETE_PROJECT_AUDIT_PACKAGE\00_EXECUTIVE_SUMMARY\COMPLETE_PROJECT_AUDIT_REPORT.md,COMPLETE_PROJECT_AUDIT_REPORT.md,Documentation / Manuscript,Research documentation,6001,2026-10-12 11:32:22
+COMPLETE_PROJECT_AUDIT_PACKAGE\00_EXECUTIVE_SUMMARY\METRIC_CONTRADICTION_RESOLUTION.md,METRIC_CONTRADICTION_RESOLUTION.md,Documentation / Manuscript,Research documentation,3710,2026-10-12 11:57:29
+COMPLETE_PROJECT_AUDIT_PACKAGE\00_EXECUTIVE_SUMMARY\REVISED_COMPLETION_VERDICT.md,REVISED_COMPLETION_VERDICT.md,Documentation / Manuscript,Research documentation,1551,2026-10-12 11:57:29
+COMPLETE_PROJECT_AUDIT_PACKAGE\01_PROJECT_INVENTORY\PROJECT_INVENTORY.csv,PROJECT_INVENTORY.csv,Data / Table,Supporting data,70960,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\01_PROJECT_INVENTORY\SOURCE_FILE_INVENTORY.csv,SOURCE_FILE_INVENTORY.csv,Data / Table,Supporting data,101648,2026-10-12 12:23:41
+COMPLETE_PROJECT_AUDIT_PACKAGE\02_REQUIREMENTS_TRACEABILITY\PROJECT_REQUIREMENTS_TRACEABILITY.csv,PROJECT_REQUIREMENTS_TRACEABILITY.csv,Data / Table,Supporting data,6440,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\02_REQUIREMENTS_TRACEABILITY\REQUIREMENTS_TRACEABILITY.csv,REQUIREMENTS_TRACEABILITY.csv,Data / Table,Supporting data,9212,2026-10-12 12:23:41
+COMPLETE_PROJECT_AUDIT_PACKAGE\02_REQUIREMENTS_TRACEABILITY\REVISED_COMPLETION_SCORECARD.csv,REVISED_COMPLETION_SCORECARD.csv,Data / Table,Supporting data,3938,2026-10-12 11:55:18
+COMPLETE_PROJECT_AUDIT_PACKAGE\03_DATASET_AUDIT\CLASS_DISTRIBUTION.csv,CLASS_DISTRIBUTION.csv,Data / Table,Supporting data,117,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\03_DATASET_AUDIT\DATA_QUALITY_REPORT.csv,DATA_QUALITY_REPORT.csv,Data / Table,Supporting data,452,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\03_DATASET_AUDIT\df1_engineered_sample.csv,df1_engineered_sample.csv,Data / Table,Supporting data,16748841,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\03_DATASET_AUDIT\export.csv,export.csv,Data / Table,Supporting data,2904074,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\03_DATASET_AUDIT\FEATURE_DICTIONARY.csv,FEATURE_DICTIONARY.csv,Data / Table,Supporting data,361,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\05_MODEL_IMPLEMENTATION\MODEL_CONFIGURATION_MASTER.csv,MODEL_CONFIGURATION_MASTER.csv,Data / Table,Supporting data,935,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\05_MODEL_IMPLEMENTATION\MODEL_PERFORMANCE_MASTER.csv,MODEL_PERFORMANCE_MASTER.csv,Data / Table,Supporting data,2858,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\06_HYBRID_MODEL\META_FEATURE_DICTIONARY.csv,META_FEATURE_DICTIONARY.csv,Data / Table,Supporting data,2327,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\06_HYBRID_MODEL\VERIFIED_HYBRID_ARCHITECTURE.md,VERIFIED_HYBRID_ARCHITECTURE.md,Documentation / Manuscript,Research documentation,2751,2026-10-12 11:57:29
+COMPLETE_PROJECT_AUDIT_PACKAGE\07_OOF_AND_LEAKAGE\CORRECTED_EXPERIMENT_COMPARISON.csv,CORRECTED_EXPERIMENT_COMPARISON.csv,Data / Table,Supporting data,1030,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\07_OOF_AND_LEAKAGE\LEAKAGE_AND_SPLIT_AUDIT.md,LEAKAGE_AND_SPLIT_AUDIT.md,Documentation / Manuscript,Research documentation,3599,2026-10-12 12:23:44
+COMPLETE_PROJECT_AUDIT_PACKAGE\07_OOF_AND_LEAKAGE\OOF_PREDICTIONS_CORRECTED.csv,OOF_PREDICTIONS_CORRECTED.csv,Data / Table,Supporting data,82065639,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\08_EVALUATION_AND_STATISTICS\BOOTSTRAP_CONFIDENCE_INTERVALS.csv,BOOTSTRAP_CONFIDENCE_INTERVALS.csv,Data / Table,Supporting data,956,2026-10-12 11:53:47
+COMPLETE_PROJECT_AUDIT_PACKAGE\08_EVALUATION_AND_STATISTICS\CORRECTED_STACKING_VS_HYBRID_COMPARISON.csv,CORRECTED_STACKING_VS_HYBRID_COMPARISON.csv,Data / Table,Supporting data,1124,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\08_EVALUATION_AND_STATISTICS\METRIC_RECONCILIATION.md,METRIC_RECONCILIATION.md,Documentation / Manuscript,Research documentation,3785,2026-10-12 12:23:44
+COMPLETE_PROJECT_AUDIT_PACKAGE\08_EVALUATION_AND_STATISTICS\PAIRED_BOOTSTRAP_DIFFERENCES.csv,PAIRED_BOOTSTRAP_DIFFERENCES.csv,Data / Table,Supporting data,362,2026-10-12 11:53:47
+COMPLETE_PROJECT_AUDIT_PACKAGE\08_EVALUATION_AND_STATISTICS\STATISTICAL_RECONCILIATION.md,STATISTICAL_RECONCILIATION.md,Documentation / Manuscript,Research documentation,3416,2026-10-12 12:23:44
+COMPLETE_PROJECT_AUDIT_PACKAGE\08_EVALUATION_AND_STATISTICS\STATISTICAL_VALIDATION_REPORT.md,STATISTICAL_VALIDATION_REPORT.md,Documentation / Manuscript,Research documentation,2314,2026-10-12 11:53:47
+COMPLETE_PROJECT_AUDIT_PACKAGE\08_EVALUATION_AND_STATISTICS\TEST_PREDICTIONS_MASTER.csv,TEST_PREDICTIONS_MASTER.csv,Data / Table,Supporting data,33935360,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\08_EVALUATION_AND_STATISTICS\VERIFIED_FINAL_METRICS.csv,VERIFIED_FINAL_METRICS.csv,Data / Table,Supporting data,1851,2026-10-12 11:55:21
+COMPLETE_PROJECT_AUDIT_PACKAGE\09_FAILURE_ANALYSIS\11_error_complementarity.csv,11_error_complementarity.csv,Data / Table,Supporting data,711,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\09_FAILURE_ANALYSIS\12_hybrid_ablation_results.csv,12_hybrid_ablation_results.csv,Evaluation Metric / Table,Experimental metric,2441,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\09_FAILURE_ANALYSIS\ERROR_OVERLAP_RESULTS.csv,ERROR_OVERLAP_RESULTS.csv,Data / Table,Supporting data,348,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\10_MODEL_IMPROVEMENTS\IMPROVEMENT_EXPERIMENT_RESULTS.csv,IMPROVEMENT_EXPERIMENT_RESULTS.csv,Data / Table,Supporting data,12529,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\10_MODEL_IMPROVEMENTS\OPTIMIZATION_HISTORY_AUDIT.md,OPTIMIZATION_HISTORY_AUDIT.md,Documentation / Manuscript,Research documentation,2150,2026-10-12 12:23:44
+COMPLETE_PROJECT_AUDIT_PACKAGE\11_XAI_CALIBRATION_SUBGROUPS\CALIBRATION_MASTER.csv,CALIBRATION_MASTER.csv,Data / Table,Supporting data,928,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\11_XAI_CALIBRATION_SUBGROUPS\EXPLAINABILITY_AND_FAILURE_ANALYSIS_AUDIT.md,EXPLAINABILITY_AND_FAILURE_ANALYSIS_AUDIT.md,Documentation / Manuscript,Research documentation,2592,2026-10-12 12:23:44
+COMPLETE_PROJECT_AUDIT_PACKAGE\11_XAI_CALIBRATION_SUBGROUPS\SUBGROUP_ANALYSIS_MASTER.csv,SUBGROUP_ANALYSIS_MASTER.csv,Data / Table,Supporting data,18337,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\12_DASHBOARD\DASHBOARD_VERIFICATION_REPORT.md,DASHBOARD_VERIFICATION_REPORT.md,Documentation / Manuscript,Research documentation,2769,2026-10-12 12:23:44
+COMPLETE_PROJECT_AUDIT_PACKAGE\14_GITHUB_AND_CODE_QUALITY\SOURCE_EVIDENCE_GAPS.md,SOURCE_EVIDENCE_GAPS.md,Documentation / Manuscript,Research documentation,1109,2026-10-12 11:57:29
+COMPLETE_PROJECT_AUDIT_PACKAGE\16_REPRODUCIBILITY\EXPERIMENT_REPRODUCTION_REPORT.md,EXPERIMENT_REPRODUCTION_REPORT.md,Documentation / Manuscript,Research documentation,1830,2026-10-12 11:57:29
+COMPLETE_PROJECT_AUDIT_PACKAGE\16_REPRODUCIBILITY\REPRODUCIBILITY_REPORT.md,REPRODUCIBILITY_REPORT.md,Documentation / Manuscript,Research documentation,2242,2026-10-12 12:23:44
+COMPLETE_PROJECT_AUDIT_PACKAGE\17_MANUSCRIPT_AUDIT\MANUSCRIPT_CLAIM_AUDIT.md,MANUSCRIPT_CLAIM_AUDIT.md,Documentation / Manuscript,Research documentation,4064,2026-10-12 12:23:44
+COMPLETE_PROJECT_AUDIT_PACKAGE\19_MISSING_ARTIFACTS\MISSING_ARTIFACTS.txt,MISSING_ARTIFACTS.txt,Documentation / Manuscript,Research documentation,3362,2026-10-12 11:32:03
+COMPLETE_PROJECT_AUDIT_PACKAGE\19_MISSING_ARTIFACTS\MISSING_ARTIFACTS_REPORT.md,MISSING_ARTIFACTS_REPORT.md,Documentation / Manuscript,Research documentation,5096,2026-10-12 12:23:44
+COMPLETE_PROJECT_AUDIT_PACKAGE\20_FINAL_ACTION_PLAN\FINAL_RECOMMENDATIONS.md,FINAL_RECOMMENDATIONS.md,Documentation / Manuscript,Research documentation,2968,2026-10-12 12:23:44
+dashboard\app.py,app.py,Source Code / Script,Pipeline / Analysis module,21199,2026-10-28 20:44:57
+data\processed\df1_cleaned.csv,df1_cleaned.csv,Dataset / Data Artifact,Primary / Processed data,11829912,2026-10-06 21:46:17
+data\processed\df1_engineered.csv,df1_engineered.csv,Dataset / Data Artifact,Primary / Processed data,16748841,2026-10-06 21:48:32
+data\processed\df2_surveillance.csv,df2_surveillance.csv,Dataset / Data Artifact,Primary / Processed data,1180400,2026-10-06 23:18:15
+data\processed\test_indices.npy,test_indices.npy,Dataset / Data Artifact,Primary / Processed data,406016,2026-10-06 21:46:16
+data\processed\train_indices.npy,train_indices.npy,Dataset / Data Artifact,Primary / Processed data,1623680,2026-10-06 21:46:16
+data\raw\diabetes_012_health_indicators_BRFSS2015.csv,diabetes_012_health_indicators_BRFSS2015.csv,Dataset / Data Artifact,Primary / Processed data,11829912,2026-10-06 21:12:36
+data\raw\export.csv,export.csv,Dataset / Data Artifact,Primary / Processed data,2904074,2026-10-06 20:09:44
+EXP_02_20_TRIAL_OPTIMIZATION\results\tables\optuna_trials_lightgbm.csv,optuna_trials_lightgbm.csv,Evaluation Metric / Table,Experimental metric,6934,2026-10-07 09:23:43
+EXP_02_20_TRIAL_OPTIMIZATION\results\tables\optuna_trials_xgboost.csv,optuna_trials_xgboost.csv,Evaluation Metric / Table,Experimental metric,7197,2026-10-07 09:15:03
+EXP_03_TARGETED_HYBRID_TUNING\models\best_meta_learner.joblib,best_meta_learner.joblib,Serialized Model Artifact,Trained model parameters,2319,2026-10-07 09:42:29
+EXP_03_TARGETED_HYBRID_TUNING\results\exp_a_meta_learner_oof.csv,exp_a_meta_learner_oof.csv,Evaluation Metric / Table,Experimental metric,1670,2026-10-07 09:42:01
+EXP_03_TARGETED_HYBRID_TUNING\results\exp_b_threshold_optimization_oof.csv,exp_b_threshold_optimization_oof.csv,Evaluation Metric / Table,Experimental metric,17531,2026-10-07 09:42:24
+EXP_03_TARGETED_HYBRID_TUNING\results\exp_c_final_comparison.csv,exp_c_final_comparison.csv,Evaluation Metric / Table,Experimental metric,2556,2026-10-07 09:42:35
+EXP_03_TARGETED_HYBRID_TUNING\results\meta_learner_coefficients.csv,meta_learner_coefficients.csv,Evaluation Metric / Table,Experimental metric,2154,2026-10-07 09:42:29
+MANUSCRIPT_REWRITE_FILES\09_best_params.csv,09_best_params.csv,Data / Table,Supporting data,935,2026-10-12 11:09:51
+MANUSCRIPT_REWRITE_FILES\12_hybrid_ablation_results.csv,12_hybrid_ablation_results.csv,Evaluation Metric / Table,Experimental metric,2441,2026-10-12 11:09:51
+MANUSCRIPT_REWRITE_FILES\CALIBRATION_MASTER.csv,CALIBRATION_MASTER.csv,Data / Table,Supporting data,928,2026-10-12 11:09:51
+MANUSCRIPT_REWRITE_FILES\CORRECTED_STACKING_VS_HYBRID_COMPARISON.csv,CORRECTED_STACKING_VS_HYBRID_COMPARISON.csv,Data / Table,Supporting data,1124,2026-10-12 11:09:51
+MANUSCRIPT_REWRITE_FILES\EXPERIMENT_REPRODUCTION_REPORT.md,EXPERIMENT_REPRODUCTION_REPORT.md,Documentation / Manuscript,Research documentation,1830,2026-10-12 11:57:29
+MANUSCRIPT_REWRITE_FILES\export.csv,export.csv,Data / Table,Supporting data,2904074,2026-10-12 11:09:52
+MANUSCRIPT_REWRITE_FILES\IMPROVEMENT_EXPERIMENT_RESULTS.csv,IMPROVEMENT_EXPERIMENT_RESULTS.csv,Data / Table,Supporting data,12529,2026-10-12 11:09:51
+MANUSCRIPT_REWRITE_FILES\METRIC_CONTRADICTION_RESOLUTION.md,METRIC_CONTRADICTION_RESOLUTION.md,Documentation / Manuscript,Research documentation,3710,2026-10-12 11:57:29
+MANUSCRIPT_REWRITE_FILES\MODEL_COMPARISON_MASTER.csv,MODEL_COMPARISON_MASTER.csv,Data / Table,Supporting data,2858,2026-10-12 11:09:51
+MANUSCRIPT_REWRITE_FILES\oof_weight_correction_comparison.csv,oof_weight_correction_comparison.csv,Data / Table,Supporting data,1030,2026-10-12 11:09:51
+MANUSCRIPT_REWRITE_FILES\README.md,README.md,Documentation / Manuscript,Research documentation,3362,2026-10-12 11:10:16
+MANUSCRIPT_REWRITE_FILES\REVISED_COMPLETION_SCORECARD.csv,REVISED_COMPLETION_SCORECARD.csv,Data / Table,Supporting data,3938,2026-10-12 11:55:18
+MANUSCRIPT_REWRITE_FILES\REVISED_COMPLETION_VERDICT.md,REVISED_COMPLETION_VERDICT.md,Documentation / Manuscript,Research documentation,1551,2026-10-12 11:57:29
+MANUSCRIPT_REWRITE_FILES\SOURCE_EVIDENCE_GAPS.md,SOURCE_EVIDENCE_GAPS.md,Documentation / Manuscript,Research documentation,1109,2026-10-12 11:57:29
+MANUSCRIPT_REWRITE_FILES\STATISTICAL_VALIDATION_REPORT.md,STATISTICAL_VALIDATION_REPORT.md,Documentation / Manuscript,Research documentation,2314,2026-10-12 11:53:47
+MANUSCRIPT_REWRITE_FILES\SUBGROUP_ANALYSIS_MASTER.csv,SUBGROUP_ANALYSIS_MASTER.csv,Data / Table,Supporting data,18337,2026-10-12 11:09:51
+MANUSCRIPT_REWRITE_FILES\TEST_PREDICTIONS_MASTER.csv,TEST_PREDICTIONS_MASTER.csv,Data / Table,Supporting data,33935360,2026-10-12 11:09:51
+MANUSCRIPT_REWRITE_FILES\VERIFIED_FINAL_METRICS.csv,VERIFIED_FINAL_METRICS.csv,Data / Table,Supporting data,1851,2026-10-12 11:55:21
+MANUSCRIPT_REWRITE_FILES\VERIFIED_HYBRID_ARCHITECTURE.md,VERIFIED_HYBRID_ARCHITECTURE.md,Documentation / Manuscript,Research documentation,2751,2026-10-12 11:57:29
+models\base_models\catboost.joblib,catboost.joblib,Serialized Model Artifact,Trained model parameters,9476804,2026-10-06 23:10:38
+models\base_models\decisiontree.joblib,decisiontree.joblib,Serialized Model Artifact,Trained model parameters,160945,2026-10-06 23:12:34
+models\base_models\decision_tree.joblib,decision_tree.joblib,Serialized Model Artifact,Trained model parameters,160145,2026-10-06 21:57:10
+models\base_models\lightgbm.joblib,lightgbm.joblib,Serialized Model Artifact,Trained model parameters,4626076,2026-10-06 23:08:45
+models\base_models\logisticregression.joblib,logisticregression.joblib,Serialized Model Artifact,Trained model parameters,1599,2026-10-06 23:12:32
+models\base_models\logistic_regression.joblib,logistic_regression.joblib,Serialized Model Artifact,Trained model parameters,1599,2026-10-06 21:57:10
+models\base_models\randomforest.joblib,randomforest.joblib,Serialized Model Artifact,Trained model parameters,274358577,2026-10-06 23:12:09
+models\base_models\svm.joblib,svm.joblib,Serialized Model Artifact,Trained model parameters,1860,2026-10-06 23:13:16
+models\base_models\xgboost.joblib,xgboost.joblib,Serialized Model Artifact,Trained model parameters,35844093,2026-10-06 23:08:26
+models\hybrid\failure_aware_hybrid.joblib,failure_aware_hybrid.joblib,Serialized Model Artifact,Trained model parameters,3377,2026-10-06 23:16:01
+models\hybrid\hybrid_metadata.joblib,hybrid_metadata.joblib,Serialized Model Artifact,Trained model parameters,625,2026-10-06 23:24:43
+models\hybrid\hybrid_meta_model.joblib,hybrid_meta_model.joblib,Serialized Model Artifact,Trained model parameters,2095,2026-10-06 23:24:43
+models\preprocessing\preprocessing_pipeline.joblib,preprocessing_pipeline.joblib,Serialized Model Artifact,Trained model parameters,3331,2026-10-06 22:10:49
+models\preprocessing\selected_features.joblib,selected_features.joblib,Serialized Model Artifact,Trained model parameters,397,2026-10-06 21:55:25
+notebooks\01_problem_and_data_understanding.ipynb,01_problem_and_data_understanding.ipynb,Research Notebook,Experimental step,96503,2026-10-06 21:46:09
+notebooks\02_data_cleaning_and_preprocessing.ipynb,02_data_cleaning_and_preprocessing.ipynb,Research Notebook,Experimental step,135771,2026-10-06 21:46:17
+notebooks\03_eda_and_visual_analytics.ipynb,03_eda_and_visual_analytics.ipynb,Research Notebook,Experimental step,1830781,2026-10-06 21:46:30
+notebooks\04_statistical_analysis.ipynb,04_statistical_analysis.ipynb,Research Notebook,Experimental step,27287,2026-10-06 21:48:24
+notebooks\05_feature_engineering.ipynb,05_feature_engineering.ipynb,Research Notebook,Experimental step,192877,2026-10-06 21:48:33
+notebooks\06_feature_selection.ipynb,06_feature_selection.ipynb,Research Notebook,Experimental step,235943,2026-10-06 21:55:26
+notebooks\07_predictive_analytics_and_baselines.ipynb,07_predictive_analytics_and_baselines.ipynb,Research Notebook,Experimental step,404180,2026-10-06 22:04:11
+notebooks\08_existing_models.ipynb,08_existing_models.ipynb,Research Notebook,Experimental step,471440,2026-10-06 22:49:16
+notebooks\09_hyperparameter_optimization.ipynb,09_hyperparameter_optimization.ipynb,Research Notebook,Experimental step,74143,2026-10-06 23:13:20
+notebooks\10_model_evaluation_and_comparison.ipynb,10_model_evaluation_and_comparison.ipynb,Research Notebook,Experimental step,1370644,2026-10-06 23:13:36
+notebooks\11_failure_analysis.ipynb,11_failure_analysis.ipynb,Research Notebook,Experimental step,242733,2026-10-06 23:13:44
+notebooks\12_failure_aware_hybrid_model.ipynb,12_failure_aware_hybrid_model.ipynb,Research Notebook,Experimental step,27456,2026-10-06 23:24:43
+notebooks\13_explainable_ai_shap_lime.ipynb,13_explainable_ai_shap_lime.ipynb,Research Notebook,Experimental step,767057,2026-10-06 23:18:00
+notebooks\14_advanced_visual_analytics.ipynb,14_advanced_visual_analytics.ipynb,Research Notebook,Experimental step,71145,2026-10-06 23:18:09
+notebooks\15_population_surveillance_dataset2.ipynb,15_population_surveillance_dataset2.ipynb,Research Notebook,Experimental step,440169,2026-10-06 23:18:17
+notebooks\16_integrated_public_health_analysis.ipynb,16_integrated_public_health_analysis.ipynb,Research Notebook,Experimental step,7578,2026-10-06 23:18:22
+PROJECT_KNOWLEDGE_PACKAGE\00_EXECUTIVE_PROJECT_SUMMARY.md,00_EXECUTIVE_PROJECT_SUMMARY.md,Documentation / Manuscript,Research documentation,7151,2026-10-28 22:44:12
+PROJECT_KNOWLEDGE_PACKAGE\01_NOTEBOOK_BY_NOTEBOOK_AUDIT.md,01_NOTEBOOK_BY_NOTEBOOK_AUDIT.md,Documentation / Manuscript,Research documentation,51773,2026-10-28 22:35:59
+PROJECT_KNOWLEDGE_PACKAGE\02_EDA_AND_STATISTICAL_FINDINGS.md,02_EDA_AND_STATISTICAL_FINDINGS.md,Documentation / Manuscript,Research documentation,11252,2026-10-28 22:37:16
+PROJECT_KNOWLEDGE_PACKAGE\03_FEATURE_ENGINEERING_AND_SELECTION.md,03_FEATURE_ENGINEERING_AND_SELECTION.md,Documentation / Manuscript,Research documentation,10278,2026-10-28 22:37:16
+PROJECT_KNOWLEDGE_PACKAGE\04_MODELS_EXPERIMENTS_AND_METRICS.md,04_MODELS_EXPERIMENTS_AND_METRICS.md,Documentation / Manuscript,Research documentation,11259,2026-10-28 22:38:30
+PROJECT_KNOWLEDGE_PACKAGE\05_FAILURE_AWARE_HYBRID_METHOD.md,05_FAILURE_AWARE_HYBRID_METHOD.md,Documentation / Manuscript,Research documentation,9248,2026-10-28 22:38:30
+PROJECT_KNOWLEDGE_PACKAGE\06_EXPLAINABILITY_AND_FAILURE_ANALYSIS.md,06_EXPLAINABILITY_AND_FAILURE_ANALYSIS.md,Documentation / Manuscript,Research documentation,8306,2026-10-28 22:39:32
+PROJECT_KNOWLEDGE_PACKAGE\07_POPULATION_SURVEILLANCE_ANALYSIS.md,07_POPULATION_SURVEILLANCE_ANALYSIS.md,Documentation / Manuscript,Research documentation,7105,2026-10-28 22:39:32
+PROJECT_KNOWLEDGE_PACKAGE\08_FIGURE_TABLE_INVENTORY.csv,08_FIGURE_TABLE_INVENTORY.csv,Data / Table,Supporting data,11298,2026-10-28 22:42:53
+PROJECT_KNOWLEDGE_PACKAGE\09_MANUSCRIPT_GAP_ANALYSIS.md,09_MANUSCRIPT_GAP_ANALYSIS.md,Documentation / Manuscript,Research documentation,9689,2026-10-28 22:42:53
+PROJECT_KNOWLEDGE_PACKAGE\10_DISCREPANCIES_AND_RESEARCH_LIMITATIONS.md,10_DISCREPANCIES_AND_RESEARCH_LIMITATIONS.md,Documentation / Manuscript,Research documentation,8233,2026-10-28 22:42:53
+PROJECT_KNOWLEDGE_PACKAGE\11_PROJECT_FACTS_FOR_CHATGPT.md,11_PROJECT_FACTS_FOR_CHATGPT.md,Documentation / Manuscript,Research documentation,8994,2026-10-28 22:44:12
+PROJECT_KNOWLEDGE_PACKAGE\12_SOURCE_EVIDENCE_INDEX.csv,12_SOURCE_EVIDENCE_INDEX.csv,Data / Table,Supporting data,5334,2026-10-28 22:44:12
+PUBLICATION_AUDIT_PACKAGE\00_README\FILE_MANIFEST.csv,FILE_MANIFEST.csv,Data / Table,Supporting data,28409,2026-10-08 08:57:08
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\audit_project.py,audit_project.py,Source Code / Script,Pipeline / Analysis module,10864,2026-10-07 12:42:40
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\build_v2_package.py,build_v2_package.py,Source Code / Script,Pipeline / Analysis module,8155,2026-10-07 12:43:22
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\config.py,config.py,Source Code / Script,Pipeline / Analysis module,3104,2026-10-06 21:17:56
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\create_audit_package.py,create_audit_package.py,Source Code / Script,Pipeline / Analysis module,3772,2026-10-08 08:56:37
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\data_utils.py,data_utils.py,Source Code / Script,Pipeline / Analysis module,7392,2026-10-06 21:18:58
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\evaluation.py,evaluation.py,Source Code / Script,Pipeline / Analysis module,4180,2026-10-06 21:18:21
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\execute_pipeline.py,execute_pipeline.py,Source Code / Script,Pipeline / Analysis module,1492,2026-10-06 23:17:15
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\fix.py,fix.py,Source Code / Script,Pipeline / Analysis module,656,2026-10-06 21:49:38
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\fix2.py,fix2.py,Source Code / Script,Pipeline / Analysis module,723,2026-10-06 22:11:57
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\fix3.py,fix3.py,Source Code / Script,Pipeline / Analysis module,443,2026-10-06 22:47:41
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\fix4.py,fix4.py,Source Code / Script,Pipeline / Analysis module,450,2026-10-06 22:49:07
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\fix5.py,fix5.py,Source Code / Script,Pipeline / Analysis module,597,2026-10-06 23:22:31
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\fix_script.py,fix_script.py,Source Code / Script,Pipeline / Analysis module,226,2026-10-07 12:20:03
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\gather_stats.py,gather_stats.py,Source Code / Script,Pipeline / Analysis module,1101,2026-10-06 23:36:40
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\generate_evidence_package.py,generate_evidence_package.py,Source Code / Script,Pipeline / Analysis module,113881,2026-10-07 12:20:44
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\gen_nb02.py,gen_nb02.py,Source Code / Script,Pipeline / Analysis module,13902,2026-10-06 21:24:28
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\gen_nb03_06.py,gen_nb03_06.py,Source Code / Script,Pipeline / Analysis module,34541,2026-10-06 21:49:38
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\gen_nb07_10.py,gen_nb07_10.py,Source Code / Script,Pipeline / Analysis module,41397,2026-10-06 21:49:38
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\gen_nb11_14.py,gen_nb11_14.py,Source Code / Script,Pipeline / Analysis module,23819,2026-10-06 21:49:38
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\gen_nb12_ablation.py,gen_nb12_ablation.py,Source Code / Script,Pipeline / Analysis module,7404,2026-10-06 23:20:52
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\gen_nb15_16.py,gen_nb15_16.py,Source Code / Script,Pipeline / Analysis module,8133,2026-10-06 21:32:51
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\plotting.py,plotting.py,Source Code / Script,Pipeline / Analysis module,5245,2026-10-06 21:19:23
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\plot_final_comparison.py,plot_final_comparison.py,Source Code / Script,Pipeline / Analysis module,6266,2026-10-07 10:07:37
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\run_exp_02.py,run_exp_02.py,Source Code / Script,Pipeline / Analysis module,13081,2026-10-07 09:23:55
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\run_exp_03.py,run_exp_03.py,Source Code / Script,Pipeline / Analysis module,9276,2026-10-07 09:38:22
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\run_exp_audit_weight_fix.py,run_exp_audit_weight_fix.py,Source Code / Script,Pipeline / Analysis module,8008,2026-10-07 12:41:11
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\scratch_build_notebooks.py,scratch_build_notebooks.py,Source Code / Script,Pipeline / Analysis module,13657,2026-10-06 21:22:19
+PUBLICATION_AUDIT_PACKAGE\03_SOURCE_CODE\__init__.py,__init__.py,Source Code / Script,Pipeline / Analysis module,91,2026-10-06 21:17:38
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\01_problem_and_data_understanding.ipynb,01_problem_and_data_understanding.ipynb,Research Notebook,Experimental step,96503,2026-10-06 21:46:09
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\02_data_cleaning_and_preprocessing.ipynb,02_data_cleaning_and_preprocessing.ipynb,Research Notebook,Experimental step,135771,2026-10-06 21:46:17
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\03_eda_and_visual_analytics.ipynb,03_eda_and_visual_analytics.ipynb,Research Notebook,Experimental step,1830781,2026-10-06 21:46:30
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\04_statistical_analysis.ipynb,04_statistical_analysis.ipynb,Research Notebook,Experimental step,27287,2026-10-06 21:48:24
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\05_feature_engineering.ipynb,05_feature_engineering.ipynb,Research Notebook,Experimental step,192877,2026-10-06 21:48:33
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\06_feature_selection.ipynb,06_feature_selection.ipynb,Research Notebook,Experimental step,235943,2026-10-06 21:55:26
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\07_predictive_analytics_and_baselines.ipynb,07_predictive_analytics_and_baselines.ipynb,Research Notebook,Experimental step,404180,2026-10-06 22:04:11
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\08_existing_models.ipynb,08_existing_models.ipynb,Research Notebook,Experimental step,471440,2026-10-06 22:49:16
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\09_hyperparameter_optimization.ipynb,09_hyperparameter_optimization.ipynb,Research Notebook,Experimental step,74143,2026-10-06 23:13:20
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\10_model_evaluation_and_comparison.ipynb,10_model_evaluation_and_comparison.ipynb,Research Notebook,Experimental step,1370644,2026-10-06 23:13:36
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\11_failure_analysis.ipynb,11_failure_analysis.ipynb,Research Notebook,Experimental step,242733,2026-10-06 23:13:44
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\12_failure_aware_hybrid_model.ipynb,12_failure_aware_hybrid_model.ipynb,Research Notebook,Experimental step,27456,2026-10-06 23:24:43
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\13_explainable_ai_shap_lime.ipynb,13_explainable_ai_shap_lime.ipynb,Research Notebook,Experimental step,767057,2026-10-06 23:18:00
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\14_advanced_visual_analytics.ipynb,14_advanced_visual_analytics.ipynb,Research Notebook,Experimental step,71145,2026-10-06 23:18:09
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\15_population_surveillance_dataset2.ipynb,15_population_surveillance_dataset2.ipynb,Research Notebook,Experimental step,440169,2026-10-06 23:18:17
+PUBLICATION_AUDIT_PACKAGE\04_NOTEBOOKS\16_integrated_public_health_analysis.ipynb,16_integrated_public_health_analysis.ipynb,Research Notebook,Experimental step,7578,2026-10-06 23:18:22
+PUBLICATION_AUDIT_PACKAGE\05_CONFIGS\project_config.yaml,project_config.yaml,Configuration,Experiment configuration,3049,2026-10-06 21:41:20
+PUBLICATION_AUDIT_PACKAGE\09_OOF_PREDICTIONS\OOF_PREDICTIONS_CORRECTED.csv,OOF_PREDICTIONS_CORRECTED.csv,Data / Table,Supporting data,82065639,2026-10-12 10:38:56
+PUBLICATION_AUDIT_PACKAGE\09_OOF_PREDICTIONS\OOF_PREDICTIONS_ORIGINAL.csv,OOF_PREDICTIONS_ORIGINAL.csv,Data / Table,Supporting data,77548573,2026-10-12 10:38:56
+PUBLICATION_AUDIT_PACKAGE\10_TEST_PREDICTIONS\TEST_PREDICTIONS_MASTER.csv,TEST_PREDICTIONS_MASTER.csv,Data / Table,Supporting data,31237696,2026-10-12 10:38:56
+PUBLICATION_AUDIT_PACKAGE\16_CALIBRATION\CALIBRATION_MASTER.csv,CALIBRATION_MASTER.csv,Data / Table,Supporting data,856,2026-10-12 10:38:56
+PUBLICATION_AUDIT_PACKAGE\18_SUBGROUP_ANALYSIS\SUBGROUP_ANALYSIS_MASTER.csv,SUBGROUP_ANALYSIS_MASTER.csv,Data / Table,Supporting data,18337,2026-10-12 10:38:56
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\01_data_quality_report.csv,01_data_quality_report.csv,Dataset / Data Artifact,Primary / Processed data,452,2026-10-06 21:46:09
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\01_descriptive_stats.csv,01_descriptive_stats.csv,Data / Table,Supporting data,1315,2026-10-06 21:46:09
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\01_feature_ranges.csv,01_feature_ranges.csv,Data / Table,Supporting data,526,2026-10-06 21:46:09
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\01_feature_type_summary.csv,01_feature_type_summary.csv,Data / Table,Supporting data,490,2026-10-06 21:46:09
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\02_preprocessing_metadata.csv,02_preprocessing_metadata.csv,Dataset / Data Artifact,Primary / Processed data,1037,2026-10-06 21:46:17
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\03_binary_prevalence.csv,03_binary_prevalence.csv,Data / Table,Supporting data,443,2026-10-06 21:46:24
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\04_chi_square.csv,04_chi_square.csv,Data / Table,Supporting data,1174,2026-10-06 21:48:23
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\04_descriptive_by_class.csv,04_descriptive_by_class.csv,Data / Table,Supporting data,3022,2026-10-06 21:48:23
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\04_effect_sizes.csv,04_effect_sizes.csv,Data / Table,Supporting data,1334,2026-10-06 21:48:23
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\04_kruskal_wallis.csv,04_kruskal_wallis.csv,Data / Table,Supporting data,522,2026-10-06 21:48:23
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\04_multiple_testing_correction.csv,04_multiple_testing_correction.csv,Data / Table,Supporting data,1162,2026-10-06 21:48:23
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\04_spearman_correlations.csv,04_spearman_correlations.csv,Data / Table,Supporting data,1541,2026-10-06 21:48:23
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\05_feature_dictionary.csv,05_feature_dictionary.csv,Data / Table,Supporting data,2194,2026-10-06 21:48:32
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\06_combined_rankings.csv,06_combined_rankings.csv,Data / Table,Supporting data,1232,2026-10-06 21:55:25
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\06_l1_selection.csv,06_l1_selection.csv,Data / Table,Supporting data,968,2026-10-06 21:55:25
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\06_mutual_information.csv,06_mutual_information.csv,Data / Table,Supporting data,971,2026-10-06 21:50:22
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\06_rf_importance.csv,06_rf_importance.csv,Data / Table,Supporting data,966,2026-10-06 21:50:26
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\07_baseline_metrics.csv,07_baseline_metrics.csv,Evaluation Metric / Table,Experimental metric,990,2026-10-06 21:57:10
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\07_baseline_oof.csv,07_baseline_oof.csv,Data / Table,Supporting data,25569394,2026-10-06 21:57:11
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\08_model_comparison.csv,08_model_comparison.csv,Data / Table,Supporting data,3133,2026-10-06 22:10:39
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\08_oof_predictions.csv,08_oof_predictions.csv,Data / Table,Supporting data,79300888,2026-10-06 22:10:48
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\08_test_predictions.csv,08_test_predictions.csv,Data / Table,Supporting data,19465456,2026-10-06 22:10:49
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\09_best_params.csv,09_best_params.csv,Data / Table,Supporting data,935,2026-10-06 23:07:37
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\09_tuned_comparison.csv,09_tuned_comparison.csv,Data / Table,Supporting data,3039,2026-10-06 23:13:20
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\09_tuned_oof_predictions.csv,09_tuned_oof_predictions.csv,Data / Table,Supporting data,79243478,2026-10-06 23:13:19
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\09_tuned_oof_predictions_corrected.csv,09_tuned_oof_predictions_corrected.csv,Data / Table,Supporting data,82312309,2026-10-07 12:43:17
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\09_tuned_test_predictions.csv,09_tuned_test_predictions.csv,Data / Table,Supporting data,19486053,2026-10-06 23:13:20
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\10_full_comparison.csv,10_full_comparison.csv,Data / Table,Supporting data,2903,2026-10-06 23:13:31
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\11_error_complementarity.csv,11_error_complementarity.csv,Data / Table,Supporting data,711,2026-10-06 23:13:43
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\11_error_overlap_counts.csv,11_error_overlap_counts.csv,Data / Table,Supporting data,348,2026-10-06 23:13:43
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\12_ablation_study.csv,12_ablation_study.csv,Data / Table,Supporting data,1806,2026-10-06 23:16:01
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\12_hybrid_ablation_results.csv,12_hybrid_ablation_results.csv,Evaluation Metric / Table,Experimental metric,2441,2026-10-06 23:24:43
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\12_hybrid_test_predictions.csv,12_hybrid_test_predictions.csv,Data / Table,Supporting data,3216830,2026-10-06 23:16:01
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\16_research_answers.csv,16_research_answers.csv,Data / Table,Supporting data,1217,2026-10-06 23:18:21
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\final_model_comparison_plot_data.csv,final_model_comparison_plot_data.csv,Dataset / Data Artifact,Primary / Processed data,1078,2026-10-07 10:08:06
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\IMPROVEMENT_EXPERIMENT_RESULTS.csv,IMPROVEMENT_EXPERIMENT_RESULTS.csv,Data / Table,Supporting data,12529,2026-10-12 10:38:56
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\MODEL_COMPARISON_MASTER.csv,MODEL_COMPARISON_MASTER.csv,Data / Table,Supporting data,2679,2026-10-12 10:38:56
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\oof_weight_correction_comparison.csv,oof_weight_correction_comparison.csv,Data / Table,Supporting data,585,2026-10-07 12:44:16
+PUBLICATION_AUDIT_PACKAGE\22_TABLES\target_distribution.csv,target_distribution.csv,Data / Table,Supporting data,117,2026-10-06 21:46:08
+PUBLICATION_AUDIT_PACKAGE\24_MODEL_ARTIFACTS\base_models\catboost.joblib,catboost.joblib,Serialized Model Artifact,Trained model parameters,9476804,2026-10-06 23:10:38
+PUBLICATION_AUDIT_PACKAGE\24_MODEL_ARTIFACTS\base_models\decisiontree.joblib,decisiontree.joblib,Serialized Model Artifact,Trained model parameters,160945,2026-10-06 23:12:34
+PUBLICATION_AUDIT_PACKAGE\24_MODEL_ARTIFACTS\base_models\decision_tree.joblib,decision_tree.joblib,Serialized Model Artifact,Trained model parameters,160145,2026-10-06 21:57:10
+PUBLICATION_AUDIT_PACKAGE\24_MODEL_ARTIFACTS\base_models\lightgbm.joblib,lightgbm.joblib,Serialized Model Artifact,Trained model parameters,4626076,2026-10-06 23:08:45
+PUBLICATION_AUDIT_PACKAGE\24_MODEL_ARTIFACTS\base_models\logisticregression.joblib,logisticregression.joblib,Serialized Model Artifact,Trained model parameters,1599,2026-10-06 23:12:32
+PUBLICATION_AUDIT_PACKAGE\24_MODEL_ARTIFACTS\base_models\logistic_regression.joblib,logistic_regression.joblib,Serialized Model Artifact,Trained model parameters,1599,2026-10-06 21:57:10
+PUBLICATION_AUDIT_PACKAGE\24_MODEL_ARTIFACTS\base_models\svm.joblib,svm.joblib,Serialized Model Artifact,Trained model parameters,1860,2026-10-06 23:13:16
+PUBLICATION_AUDIT_PACKAGE\24_MODEL_ARTIFACTS\base_models\xgboost.joblib,xgboost.joblib,Serialized Model Artifact,Trained model parameters,35844093,2026-10-06 23:08:26
+PUBLICATION_AUDIT_PACKAGE\24_MODEL_ARTIFACTS\hybrid\failure_aware_hybrid.joblib,failure_aware_hybrid.joblib,Serialized Model Artifact,Trained model parameters,3377,2026-10-06 23:16:01
+PUBLICATION_AUDIT_PACKAGE\24_MODEL_ARTIFACTS\hybrid\hybrid_metadata.joblib,hybrid_metadata.joblib,Serialized Model Artifact,Trained model parameters,625,2026-10-06 23:24:43
+PUBLICATION_AUDIT_PACKAGE\24_MODEL_ARTIFACTS\hybrid\hybrid_meta_model.joblib,hybrid_meta_model.joblib,Serialized Model Artifact,Trained model parameters,2095,2026-10-06 23:24:43
+PUBLICATION_AUDIT_PACKAGE\24_MODEL_ARTIFACTS\preprocessing\preprocessing_pipeline.joblib,preprocessing_pipeline.joblib,Serialized Model Artifact,Trained model parameters,3331,2026-10-06 22:10:49
+PUBLICATION_AUDIT_PACKAGE\24_MODEL_ARTIFACTS\preprocessing\selected_features.joblib,selected_features.joblib,Serialized Model Artifact,Trained model parameters,397,2026-10-06 21:55:25
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\ABLATION_AUDIT.md,ABLATION_AUDIT.md,Documentation / Manuscript,Research documentation,43,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\CALIBRATION_AUDIT.md,CALIBRATION_AUDIT.md,Documentation / Manuscript,Research documentation,46,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\COMPLETE_AUDIT_REPORT.md,COMPLETE_AUDIT_REPORT.md,Documentation / Manuscript,Research documentation,50,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\DATASET_AUDIT.md,DATASET_AUDIT.md,Documentation / Manuscript,Research documentation,42,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\DATA_LEAKAGE_AUDIT.md,DATA_LEAKAGE_AUDIT.md,Documentation / Manuscript,Research documentation,47,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\ERROR_AND_INCONSISTENCY_REPORT.md,ERROR_AND_INCONSISTENCY_REPORT.md,Documentation / Manuscript,Research documentation,59,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\EXPERIMENT_RECOMMENDATIONS.md,EXPERIMENT_RECOMMENDATIONS.md,Documentation / Manuscript,Research documentation,55,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\FAILURE_ANALYSIS_AUDIT.md,FAILURE_ANALYSIS_AUDIT.md,Documentation / Manuscript,Research documentation,51,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\FINAL_RECOMMENDATION.md,FINAL_RECOMMENDATION.md,Documentation / Manuscript,Research documentation,3686,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\HYBRID_META_FEATURE_AUDIT.md,HYBRID_META_FEATURE_AUDIT.md,Documentation / Manuscript,Research documentation,54,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\IMPROVEMENT_OPPORTUNITIES.md,IMPROVEMENT_OPPORTUNITIES.md,Documentation / Manuscript,Research documentation,54,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\MISSING_ARTIFACTS.txt,MISSING_ARTIFACTS.txt,Documentation / Manuscript,Research documentation,1557,2026-10-12 10:38:56
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\OOF_AUDIT.md,OOF_AUDIT.md,Documentation / Manuscript,Research documentation,38,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\PUBLICATION_READINESS_AUDIT.md,PUBLICATION_READINESS_AUDIT.md,Documentation / Manuscript,Research documentation,56,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\REPRODUCIBILITY_AUDIT.md,REPRODUCIBILITY_AUDIT.md,Documentation / Manuscript,Research documentation,50,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\SUBGROUP_AUDIT.md,SUBGROUP_AUDIT.md,Documentation / Manuscript,Research documentation,43,2026-10-08 08:57:53
+PUBLICATION_AUDIT_PACKAGE\27_AUDIT_REPORTS\XAI_AUDIT.md,XAI_AUDIT.md,Documentation / Manuscript,Research documentation,38,2026-10-08 08:57:53
+reports\audit\checkpoint_registry.csv,checkpoint_registry.csv,Data / Table,Supporting data,260,2026-10-29 11:35:59
+reports\audit\progress_log.md,progress_log.md,Documentation / Manuscript,Research documentation,2872,2026-10-29 11:35:50
+reports\audit\rollback_log.md,rollback_log.md,Documentation / Manuscript,Research documentation,1067,2026-10-29 11:36:08
+RESEARCH_FIGURES\README.md,README.md,Documentation / Manuscript,Research documentation,9068,2026-10-28 21:52:47
+RESEARCH_FIGURES\captions\figure_captions.md,figure_captions.md,Documentation / Manuscript,Research documentation,19051,2026-10-28 21:52:47
+RESEARCH_FIGURES\figures_pdf\fig01_pipeline_architecture.pdf,fig01_pipeline_architecture.pdf,Publication Figure,Visual analytics output,80747,2026-10-28 21:37:13
+RESEARCH_FIGURES\figures_pdf\fig02_class_distribution.pdf,fig02_class_distribution.pdf,Publication Figure,Visual analytics output,39813,2026-10-28 21:40:18
+RESEARCH_FIGURES\figures_pdf\fig03_model_accuracy_f1.pdf,fig03_model_accuracy_f1.pdf,Publication Figure,Visual analytics output,43115,2026-10-28 21:40:21
+RESEARCH_FIGURES\figures_pdf\fig04_per_class_recall_heatmap.pdf,fig04_per_class_recall_heatmap.pdf,Publication Figure,Visual analytics output,41329,2026-10-28 21:40:23
+RESEARCH_FIGURES\figures_pdf\fig05_four_confusion_matrices.pdf,fig05_four_confusion_matrices.pdf,Publication Figure,Visual analytics output,33957,2026-10-28 21:40:30
+RESEARCH_FIGURES\figures_pdf\fig06_shap_beeswarm_prediabetes.pdf,fig06_shap_beeswarm_prediabetes.pdf,Publication Figure,Visual analytics output,395137,2026-10-28 21:47:34
+RESEARCH_FIGURES\figures_pdf\fig07_shap_importance_comparison.pdf,fig07_shap_importance_comparison.pdf,Publication Figure,Visual analytics output,34237,2026-10-28 21:47:38
+RESEARCH_FIGURES\figures_pdf\fig08_bootstrap_distribution.pdf,fig08_bootstrap_distribution.pdf,Publication Figure,Visual analytics output,41639,2026-10-28 21:41:04
+RESEARCH_FIGURES\figures_pdf\fig09_mcnemar_discordance.pdf,fig09_mcnemar_discordance.pdf,Publication Figure,Visual analytics output,41266,2026-10-28 21:41:06
+RESEARCH_FIGURES\figures_pdf\fig10_ablation_study.pdf,fig10_ablation_study.pdf,Publication Figure,Visual analytics output,32433,2026-10-28 21:41:08
+RESEARCH_FIGURES\figures_pdf\fig11_age_group_prediabetes_recall.pdf,fig11_age_group_prediabetes_recall.pdf,Publication Figure,Visual analytics output,34487,2026-10-28 21:41:09
+RESEARCH_FIGURES\figures_pdf\fig12_duplicate_aware_evaluation.pdf,fig12_duplicate_aware_evaluation.pdf,Publication Figure,Visual analytics output,36754,2026-10-28 21:41:11
+RESEARCH_FIGURES\figures_pdf\fig13_lime_local_explanation.pdf,fig13_lime_local_explanation.pdf,Publication Figure,Visual analytics output,37600,2026-10-28 21:47:39
+RESEARCH_FIGURES\figures_pdf\fig14_socioeconomic_vs_physiological.pdf,fig14_socioeconomic_vs_physiological.pdf,Publication Figure,Visual analytics output,37860,2026-10-28 21:47:49
+RESEARCH_FIGURES\figures_pdf\fig15_cdc_prevalence_trends.pdf,fig15_cdc_prevalence_trends.pdf,Publication Figure,Visual analytics output,51765,2026-10-28 21:48:24
+RESEARCH_FIGURES\figures_pdf\fig16_precision_recall_curves.pdf,fig16_precision_recall_curves.pdf,Publication Figure,Visual analytics output,139973,2026-10-28 21:41:14
+RESEARCH_FIGURES\figures_pdf\fig17_calibration_curves.pdf,fig17_calibration_curves.pdf,Publication Figure,Visual analytics output,33409,2026-10-28 21:41:16
+RESEARCH_FIGURES\figures_pdf\fig18_brier_log_loss.pdf,fig18_brier_log_loss.pdf,Publication Figure,Visual analytics output,35706,2026-10-28 21:41:18
+RESEARCH_FIGURES\figures_pdf\fig19_feature_engineering_impact.pdf,fig19_feature_engineering_impact.pdf,Publication Figure,Visual analytics output,33375,2026-10-28 21:41:20
+RESEARCH_FIGURES\figures_pdf\fig20_dashboard_interface.pdf,fig20_dashboard_interface.pdf,Publication Figure,Visual analytics output,558985,2026-10-28 21:48:31
+RESEARCH_FIGURES\figures_pdf\fig21_prediabetes_recall_ranking.pdf,fig21_prediabetes_recall_ranking.pdf,Publication Figure,Visual analytics output,28548,2026-10-28 21:41:22
+RESEARCH_FIGURES\figures_pdf\fig22_research_vs_dashboard_hybrid.pdf,fig22_research_vs_dashboard_hybrid.pdf,Publication Figure,Visual analytics output,46980,2026-10-28 21:41:24
+RESEARCH_FIGURES\figures_png\fig01_pipeline_architecture.png,fig01_pipeline_architecture.png,Publication Figure,Visual analytics output,1207453,2026-10-28 21:37:11
+RESEARCH_FIGURES\figures_png\fig02_class_distribution.png,fig02_class_distribution.png,Publication Figure,Visual analytics output,140459,2026-10-28 21:40:18
+RESEARCH_FIGURES\figures_png\fig03_model_accuracy_f1.png,fig03_model_accuracy_f1.png,Publication Figure,Visual analytics output,276292,2026-10-28 21:40:20
+RESEARCH_FIGURES\figures_png\fig04_per_class_recall_heatmap.png,fig04_per_class_recall_heatmap.png,Publication Figure,Visual analytics output,275051,2026-10-28 21:40:23
+RESEARCH_FIGURES\figures_png\fig05_four_confusion_matrices.png,fig05_four_confusion_matrices.png,Publication Figure,Visual analytics output,520969,2026-10-28 21:40:29
+RESEARCH_FIGURES\figures_png\fig06_shap_beeswarm_prediabetes.png,fig06_shap_beeswarm_prediabetes.png,Publication Figure,Visual analytics output,861603,2026-10-28 21:47:30
+RESEARCH_FIGURES\figures_png\fig07_shap_importance_comparison.png,fig07_shap_importance_comparison.png,Publication Figure,Visual analytics output,262982,2026-10-28 21:47:37
+RESEARCH_FIGURES\figures_png\fig08_bootstrap_distribution.png,fig08_bootstrap_distribution.png,Publication Figure,Visual analytics output,231463,2026-10-28 21:41:03
+RESEARCH_FIGURES\figures_png\fig09_mcnemar_discordance.png,fig09_mcnemar_discordance.png,Publication Figure,Visual analytics output,186388,2026-10-28 21:41:05
+RESEARCH_FIGURES\figures_png\fig10_ablation_study.png,fig10_ablation_study.png,Publication Figure,Visual analytics output,175577,2026-10-28 21:41:07
+RESEARCH_FIGURES\figures_png\fig11_age_group_prediabetes_recall.png,fig11_age_group_prediabetes_recall.png,Publication Figure,Visual analytics output,157970,2026-10-28 21:41:09
+RESEARCH_FIGURES\figures_png\fig12_duplicate_aware_evaluation.png,fig12_duplicate_aware_evaluation.png,Publication Figure,Visual analytics output,200289,2026-10-28 21:41:11
+RESEARCH_FIGURES\figures_png\fig13_lime_local_explanation.png,fig13_lime_local_explanation.png,Publication Figure,Visual analytics output,178863,2026-10-28 21:47:39
+RESEARCH_FIGURES\figures_png\fig14_socioeconomic_vs_physiological.png,fig14_socioeconomic_vs_physiological.png,Publication Figure,Visual analytics output,207036,2026-10-28 21:47:49
+RESEARCH_FIGURES\figures_png\fig15_cdc_prevalence_trends.png,fig15_cdc_prevalence_trends.png,Publication Figure,Visual analytics output,349525,2026-10-28 21:48:23
+RESEARCH_FIGURES\figures_png\fig16_precision_recall_curves.png,fig16_precision_recall_curves.png,Publication Figure,Visual analytics output,410300,2026-10-28 21:41:14
+RESEARCH_FIGURES\figures_png\fig17_calibration_curves.png,fig17_calibration_curves.png,Publication Figure,Visual analytics output,269903,2026-10-28 21:41:16
+RESEARCH_FIGURES\figures_png\fig18_brier_log_loss.png,fig18_brier_log_loss.png,Publication Figure,Visual analytics output,247990,2026-10-28 21:41:18
+RESEARCH_FIGURES\figures_png\fig19_feature_engineering_impact.png,fig19_feature_engineering_impact.png,Publication Figure,Visual analytics output,119048,2026-10-28 21:41:20
+RESEARCH_FIGURES\figures_png\fig20_dashboard_interface.png,fig20_dashboard_interface.png,Publication Figure,Visual analytics output,654904,2026-10-28 21:48:28
+RESEARCH_FIGURES\figures_png\fig21_prediabetes_recall_ranking.png,fig21_prediabetes_recall_ranking.png,Publication Figure,Visual analytics output,255181,2026-10-28 21:41:21
+RESEARCH_FIGURES\figures_png\fig22_research_vs_dashboard_hybrid.png,fig22_research_vs_dashboard_hybrid.png,Publication Figure,Visual analytics output,172079,2026-10-28 21:41:23
+RESEARCH_FIGURES\figures_svg\fig01_pipeline_architecture.svg,fig01_pipeline_architecture.svg,Publication Figure,Visual analytics output,385087,2026-10-28 21:37:15
+RESEARCH_FIGURES\figures_svg\fig02_class_distribution.svg,fig02_class_distribution.svg,Publication Figure,Visual analytics output,72658,2026-10-28 21:40:19
+RESEARCH_FIGURES\figures_svg\fig03_model_accuracy_f1.svg,fig03_model_accuracy_f1.svg,Publication Figure,Visual analytics output,103122,2026-10-28 21:40:21
+RESEARCH_FIGURES\figures_svg\fig04_per_class_recall_heatmap.svg,fig04_per_class_recall_heatmap.svg,Publication Figure,Visual analytics output,106158,2026-10-28 21:40:24
+RESEARCH_FIGURES\figures_svg\fig05_four_confusion_matrices.svg,fig05_four_confusion_matrices.svg,Publication Figure,Visual analytics output,131680,2026-10-28 21:40:30
+RESEARCH_FIGURES\figures_svg\fig06_shap_beeswarm_prediabetes.svg,fig06_shap_beeswarm_prediabetes.svg,Publication Figure,Visual analytics output,3314604,2026-10-28 21:47:36
+RESEARCH_FIGURES\figures_svg\fig07_shap_importance_comparison.svg,fig07_shap_importance_comparison.svg,Publication Figure,Visual analytics output,111330,2026-10-28 21:47:38
+RESEARCH_FIGURES\figures_svg\fig08_bootstrap_distribution.svg,fig08_bootstrap_distribution.svg,Publication Figure,Visual analytics output,96894,2026-10-28 21:41:04
+RESEARCH_FIGURES\figures_svg\fig09_mcnemar_discordance.svg,fig09_mcnemar_discordance.svg,Publication Figure,Visual analytics output,94305,2026-10-28 21:41:06
+RESEARCH_FIGURES\figures_svg\fig10_ablation_study.svg,fig10_ablation_study.svg,Publication Figure,Visual analytics output,72248,2026-10-28 21:41:08
+RESEARCH_FIGURES\figures_svg\fig11_age_group_prediabetes_recall.svg,fig11_age_group_prediabetes_recall.svg,Publication Figure,Visual analytics output,75377,2026-10-28 21:41:09
+RESEARCH_FIGURES\figures_svg\fig12_duplicate_aware_evaluation.svg,fig12_duplicate_aware_evaluation.svg,Publication Figure,Visual analytics output,93220,2026-10-28 21:41:12
+RESEARCH_FIGURES\figures_svg\fig13_lime_local_explanation.svg,fig13_lime_local_explanation.svg,Publication Figure,Visual analytics output,93129,2026-10-28 21:47:40
+RESEARCH_FIGURES\figures_svg\fig14_socioeconomic_vs_physiological.svg,fig14_socioeconomic_vs_physiological.svg,Publication Figure,Visual analytics output,94835,2026-10-28 21:47:50
+RESEARCH_FIGURES\figures_svg\fig15_cdc_prevalence_trends.svg,fig15_cdc_prevalence_trends.svg,Publication Figure,Visual analytics output,127671,2026-10-28 21:48:24
+RESEARCH_FIGURES\figures_svg\fig16_precision_recall_curves.svg,fig16_precision_recall_curves.svg,Publication Figure,Visual analytics output,469311,2026-10-28 21:41:15
+RESEARCH_FIGURES\figures_svg\fig17_calibration_curves.svg,fig17_calibration_curves.svg,Publication Figure,Visual analytics output,76808,2026-10-28 21:41:16
+RESEARCH_FIGURES\figures_svg\fig18_brier_log_loss.svg,fig18_brier_log_loss.svg,Publication Figure,Visual analytics output,105834,2026-10-28 21:41:19
+RESEARCH_FIGURES\figures_svg\fig19_feature_engineering_impact.svg,fig19_feature_engineering_impact.svg,Publication Figure,Visual analytics output,67793,2026-10-28 21:41:20
+RESEARCH_FIGURES\figures_svg\fig20_dashboard_interface.svg,fig20_dashboard_interface.svg,Publication Figure,Visual analytics output,855541,2026-10-28 21:48:33
+RESEARCH_FIGURES\figures_svg\fig21_prediabetes_recall_ranking.svg,fig21_prediabetes_recall_ranking.svg,Publication Figure,Visual analytics output,88747,2026-10-28 21:41:22
+RESEARCH_FIGURES\figures_svg\fig22_research_vs_dashboard_hybrid.svg,fig22_research_vs_dashboard_hybrid.svg,Publication Figure,Visual analytics output,103773,2026-10-28 21:41:24
+RESEARCH_FIGURES\reports\figure_generation_report.md,figure_generation_report.md,Documentation / Manuscript,Research documentation,15515,2026-10-28 21:52:47
+RESEARCH_FIGURES\scripts\generate_all_figures.py,generate_all_figures.py,Source Code / Script,Pipeline / Analysis module,1791,2026-10-28 21:52:48
+RESEARCH_FIGURES\scripts\generate_architecture_diagram.py,generate_architecture_diagram.py,Source Code / Script,Pipeline / Analysis module,10268,2026-10-28 21:42:21
+RESEARCH_FIGURES\scripts\generate_evaluation_figures.py,generate_evaluation_figures.py,Source Code / Script,Pipeline / Analysis module,35475,2026-10-28 21:45:33
+RESEARCH_FIGURES\scripts\generate_explainability_figures.py,generate_explainability_figures.py,Source Code / Script,Pipeline / Analysis module,12392,2026-10-28 21:42:21
+RESEARCH_FIGURES\scripts\generate_surveillance_figures.py,generate_surveillance_figures.py,Source Code / Script,Pipeline / Analysis module,5755,2026-10-28 21:52:48
+RESEARCH_FIGURES\scripts\validate_figure_sources.py,validate_figure_sources.py,Source Code / Script,Pipeline / Analysis module,3104,2026-10-28 21:52:48
+RESEARCH_FIGURES\source_data\fig02_class_distribution.csv,fig02_class_distribution.csv,Dataset / Data Artifact,Primary / Processed data,113,2026-10-28 21:40:19
+RESEARCH_FIGURES\source_data\fig03_model_accuracy_f1.csv,fig03_model_accuracy_f1.csv,Dataset / Data Artifact,Primary / Processed data,535,2026-10-28 21:40:19
+RESEARCH_FIGURES\source_data\fig04_per_class_recall.csv,fig04_per_class_recall.csv,Dataset / Data Artifact,Primary / Processed data,415,2026-10-28 21:40:21
+RESEARCH_FIGURES\source_data\fig06_shap_prediabetes_features.csv,fig06_shap_prediabetes_features.csv,Dataset / Data Artifact,Primary / Processed data,703,2026-10-28 21:47:29
+RESEARCH_FIGURES\source_data\fig07_shap_global_features.csv,fig07_shap_global_features.csv,Dataset / Data Artifact,Primary / Processed data,702,2026-10-28 21:47:29
+RESEARCH_FIGURES\source_data\fig08_bootstrap_replicates.csv,fig08_bootstrap_replicates.csv,Dataset / Data Artifact,Primary / Processed data,23691,2026-10-28 21:41:02
+RESEARCH_FIGURES\source_data\fig09_mcnemar_discordance.csv,fig09_mcnemar_discordance.csv,Dataset / Data Artifact,Primary / Processed data,141,2026-10-28 21:41:06
+RESEARCH_FIGURES\source_data\fig10_ablation_study.csv,fig10_ablation_study.csv,Dataset / Data Artifact,Primary / Processed data,302,2026-10-28 21:41:06
+RESEARCH_FIGURES\source_data\fig11_age_group_recall.csv,fig11_age_group_recall.csv,Dataset / Data Artifact,Primary / Processed data,130,2026-10-28 21:41:09
+RESEARCH_FIGURES\source_data\fig12_duplicate_evaluation.csv,fig12_duplicate_evaluation.csv,Dataset / Data Artifact,Primary / Processed data,184,2026-10-28 21:41:12
+RESEARCH_FIGURES\source_data\fig13_lime_patient_134330.csv,fig13_lime_patient_134330.csv,Dataset / Data Artifact,Primary / Processed data,167,2026-10-28 21:47:38
+RESEARCH_FIGURES\source_data\fig14_socioeconomic_vs_physiological.csv,fig14_socioeconomic_vs_physiological.csv,Dataset / Data Artifact,Primary / Processed data,355,2026-10-28 21:47:48
+RESEARCH_FIGURES\source_data\fig15_surveillance_prevalence_trends.csv,fig15_surveillance_prevalence_trends.csv,Dataset / Data Artifact,Primary / Processed data,810,2026-10-28 21:48:22
+RESEARCH_FIGURES\source_data\fig16_pr_auc_scores.csv,fig16_pr_auc_scores.csv,Dataset / Data Artifact,Primary / Processed data,324,2026-10-28 21:41:15
+RESEARCH_FIGURES\source_data\fig18_probabilistic_loss.csv,fig18_probabilistic_loss.csv,Dataset / Data Artifact,Primary / Processed data,312,2026-10-28 21:41:16
+RESEARCH_FIGURES\source_data\fig19_feature_engineering_impact.csv,fig19_feature_engineering_impact.csv,Dataset / Data Artifact,Primary / Processed data,133,2026-10-28 21:41:19
+RESEARCH_FIGURES\source_data\fig21_prediabetes_detection_rank.csv,fig21_prediabetes_detection_rank.csv,Dataset / Data Artifact,Primary / Processed data,535,2026-10-28 21:41:20
+RESEARCH_FIGURES\source_data\fig22_research_vs_dashboard_hybrid.csv,fig22_research_vs_dashboard_hybrid.csv,Dataset / Data Artifact,Primary / Processed data,188,2026-10-28 21:41:22
+RESEARCH_FIGURES\tables_csv\figure_manifest.csv,figure_manifest.csv,Evaluation Metric / Table,Experimental metric,11554,2026-10-28 21:50:18
+results\final_execution_report.md,final_execution_report.md,Documentation / Manuscript,Research documentation,3497,2026-10-06 23:18:57
+results\explanations\13_lime_sample.png,13_lime_sample.png,Publication Figure,Visual analytics output,51176,2026-10-06 23:17:59
+results\explanations\13_shap_importance_bar.png,13_shap_importance_bar.png,Publication Figure,Visual analytics output,89734,2026-10-06 23:17:58
+results\explanations\13_shap_summary_class1.png,13_shap_summary_class1.png,Publication Figure,Visual analytics output,267670,2026-10-06 23:17:57
+results\explanations\13_shap_summary_class2.png,13_shap_summary_class2.png,Publication Figure,Visual analytics output,236669,2026-10-06 23:17:56
+results\explanations\13_shap_waterfall_sample.png,13_shap_waterfall_sample.png,Publication Figure,Visual analytics output,83388,2026-10-06 23:17:58
+results\figures\01_target_distribution.png,01_target_distribution.png,Publication Figure,Visual analytics output,40159,2026-10-06 21:46:09
+results\figures\02_class_distribution.png,02_class_distribution.png,Publication Figure,Visual analytics output,40654,2026-10-06 21:46:16
+results\figures\02_outlier_boxplots.png,02_outlier_boxplots.png,Publication Figure,Visual analytics output,55305,2026-10-06 21:46:15
+results\figures\03_age_vs_target.png,03_age_vs_target.png,Publication Figure,Visual analytics output,101191,2026-10-06 21:46:26
+results\figures\03_binary_prevalence.png,03_binary_prevalence.png,Publication Figure,Visual analytics output,73783,2026-10-06 21:46:24
+results\figures\03_bmi_vs_target.png,03_bmi_vs_target.png,Publication Figure,Visual analytics output,82159,2026-10-06 21:46:25
+results\figures\03_continuous_distributions.png,03_continuous_distributions.png,Publication Figure,Visual analytics output,79766,2026-10-06 21:46:23
+results\figures\03_correlation_heatmap.png,03_correlation_heatmap.png,Publication Figure,Visual analytics output,296240,2026-10-06 21:46:27
+results\figures\03_genhlth_vs_target.png,03_genhlth_vs_target.png,Publication Figure,Visual analytics output,41110,2026-10-06 21:46:26
+results\figures\03_ordinal_distributions.png,03_ordinal_distributions.png,Publication Figure,Visual analytics output,266206,2026-10-06 21:46:24
+results\figures\03_pca_2d.png,03_pca_2d.png,Publication Figure,Visual analytics output,794217,2026-10-06 21:46:28
+results\figures\05_engineered_features.png,05_engineered_features.png,Publication Figure,Visual analytics output,158814,2026-10-06 21:48:31
+results\figures\06_mutual_information.png,06_mutual_information.png,Publication Figure,Visual analytics output,99290,2026-10-06 21:50:22
+results\figures\06_rf_importance.png,06_rf_importance.png,Publication Figure,Visual analytics output,100041,2026-10-06 21:50:26
+results\figures\07_baseline_roc.png,07_baseline_roc.png,Publication Figure,Visual analytics output,173958,2026-10-06 21:57:12
+results\figures\07_dt_confusion.png,07_dt_confusion.png,Publication Figure,Visual analytics output,104197,2026-10-06 21:57:10
+results\figures\07_lr_confusion.png,07_lr_confusion.png,Publication Figure,Visual analytics output,97226,2026-10-06 21:57:06
+results\figures\08_confusion_matrices.png,08_confusion_matrices.png,Publication Figure,Visual analytics output,368089,2026-10-06 22:10:42
+results\figures\08_model_comparison.png,08_model_comparison.png,Publication Figure,Visual analytics output,9714,2026-10-06 22:10:39
+results\figures\10_calibration_curves.png,10_calibration_curves.png,Publication Figure,Visual analytics output,308748,2026-10-06 23:13:35
+results\figures\10_key_metrics_comparison.png,10_key_metrics_comparison.png,Publication Figure,Visual analytics output,69872,2026-10-06 23:13:31
+results\figures\10_per_class_recall_heatmap.png,10_per_class_recall_heatmap.png,Publication Figure,Visual analytics output,79280,2026-10-06 23:13:36
+results\figures\10_pr_all_models.png,10_pr_all_models.png,Publication Figure,Visual analytics output,353964,2026-10-06 23:13:34
+results\figures\10_roc_all_models.png,10_roc_all_models.png,Publication Figure,Visual analytics output,512663,2026-10-06 23:13:33
+results\figures\11_complementarity_heatmap.png,11_complementarity_heatmap.png,Publication Figure,Visual analytics output,103021,2026-10-06 23:13:43
+results\figures\11_error_overlap_heatmap.png,11_error_overlap_heatmap.png,Publication Figure,Visual analytics output,117330,2026-10-06 23:13:43
+results\figures\12_ablation_comparison.png,12_ablation_comparison.png,Publication Figure,Visual analytics output,66173,2026-10-06 23:16:01
+results\figures\14_subgroup_fairness.png,14_subgroup_fairness.png,Publication Figure,Visual analytics output,31881,2026-10-06 23:18:07
+results\figures\final_model_comparison.png,final_model_comparison.png,Publication Figure,Visual analytics output,95703,2026-10-07 09:46:55
+results\figures\final_model_comparison_300dpi.png,final_model_comparison_300dpi.png,Publication Figure,Visual analytics output,381384,2026-10-07 09:46:56
+results\figures\final_model_comparison_v2.png,final_model_comparison_v2.png,Publication Figure,Visual analytics output,114172,2026-10-07 10:08:07
+results\figures\final_model_comparison_v2_300dpi.png,final_model_comparison_v2_300dpi.png,Publication Figure,Visual analytics output,455137,2026-10-07 10:08:08
+results\metrics\07_baseline_metrics.csv,07_baseline_metrics.csv,Evaluation Metric / Table,Experimental metric,990,2026-10-06 21:57:10
+results\metrics\07_baseline_oof.csv,07_baseline_oof.csv,Evaluation Metric / Table,Experimental metric,25569394,2026-10-06 21:57:11
+results\metrics\08_model_comparison.csv,08_model_comparison.csv,Evaluation Metric / Table,Experimental metric,3133,2026-10-06 22:10:39
+results\metrics\08_oof_predictions.csv,08_oof_predictions.csv,Evaluation Metric / Table,Experimental metric,79300888,2026-10-06 22:10:48
+results\metrics\08_test_predictions.csv,08_test_predictions.csv,Evaluation Metric / Table,Experimental metric,19465456,2026-10-06 22:10:49
+results\metrics\09_tuned_comparison.csv,09_tuned_comparison.csv,Evaluation Metric / Table,Experimental metric,3039,2026-10-06 23:13:20
+results\metrics\09_tuned_oof_predictions.csv,09_tuned_oof_predictions.csv,Evaluation Metric / Table,Experimental metric,79243478,2026-10-06 23:13:19
+results\metrics\09_tuned_oof_predictions_corrected.csv,09_tuned_oof_predictions_corrected.csv,Evaluation Metric / Table,Experimental metric,82312309,2026-10-12 11:42:39
+results\metrics\09_tuned_test_predictions.csv,09_tuned_test_predictions.csv,Evaluation Metric / Table,Experimental metric,19486053,2026-10-06 23:13:20
+results\metrics\10_full_comparison.csv,10_full_comparison.csv,Evaluation Metric / Table,Experimental metric,2903,2026-10-06 23:13:31
+results\metrics\12_ablation_study.csv,12_ablation_study.csv,Evaluation Metric / Table,Experimental metric,1806,2026-10-06 23:16:01
+results\metrics\12_hybrid_ablation_results.csv,12_hybrid_ablation_results.csv,Evaluation Metric / Table,Experimental metric,2441,2026-10-06 23:24:43
+results\metrics\12_hybrid_test_predictions.csv,12_hybrid_test_predictions.csv,Evaluation Metric / Table,Experimental metric,3216830,2026-10-06 23:16:01
+results\publication_evidence\ablation_interpretation.md,ablation_interpretation.md,Documentation / Manuscript,Research documentation,1986,2026-10-07 12:21:01
+results\publication_evidence\additional_analysis_log.md,additional_analysis_log.md,Documentation / Manuscript,Research documentation,1431,2026-10-07 12:21:02
+results\publication_evidence\classwise_test_results.csv,classwise_test_results.csv,Evaluation Metric / Table,Experimental metric,1896,2026-10-07 12:20:59
+results\publication_evidence\class_distribution.csv,class_distribution.csv,Evaluation Metric / Table,Experimental metric,113,2026-10-07 12:20:58
+results\publication_evidence\confusion_matrix_summary.csv,confusion_matrix_summary.csv,Evaluation Metric / Table,Experimental metric,467,2026-10-07 12:21:00
+results\publication_evidence\dataset1_summary.csv,dataset1_summary.csv,Dataset / Data Artifact,Primary / Processed data,1239,2026-10-07 12:20:58
+results\publication_evidence\data_code_availability.md,data_code_availability.md,Documentation / Manuscript,Research documentation,1338,2026-10-07 12:21:02
+results\publication_evidence\experiment_history.csv,experiment_history.csv,Evaluation Metric / Table,Experimental metric,1898,2026-10-07 12:21:01
+results\publication_evidence\feature_dictionary.csv,feature_dictionary.csv,Evaluation Metric / Table,Experimental metric,4112,2026-10-07 12:20:58
+results\publication_evidence\figure_inventory.csv,figure_inventory.csv,Evaluation Metric / Table,Experimental metric,4295,2026-10-07 12:21:02
+results\publication_evidence\final_ablation.csv,final_ablation.csv,Evaluation Metric / Table,Experimental metric,673,2026-10-07 12:21:01
+results\publication_evidence\FINAL_CONSISTENCY_CHECK.md,FINAL_CONSISTENCY_CHECK.md,Documentation / Manuscript,Research documentation,1526,2026-10-07 12:21:02
+results\publication_evidence\final_experiment_configuration.json,final_experiment_configuration.json,Miscellaneous,Supporting artifact,9366,2026-10-07 12:20:57
+results\publication_evidence\final_locked_test_results.csv,final_locked_test_results.csv,Evaluation Metric / Table,Experimental metric,3041,2026-10-07 12:20:59
+results\publication_evidence\final_model_comparison.csv,final_model_comparison.csv,Evaluation Metric / Table,Experimental metric,687,2026-10-07 12:21:00
+results\publication_evidence\final_model_comparison.png,final_model_comparison.png,Publication Figure,Visual analytics output,132586,2026-10-07 12:21:00
+results\publication_evidence\hybrid_pipeline.md,hybrid_pipeline.md,Documentation / Manuscript,Research documentation,3417,2026-10-07 12:21:01
+results\publication_evidence\hyperparameter_optimization.csv,hyperparameter_optimization.csv,Evaluation Metric / Table,Experimental metric,1614,2026-10-07 12:20:58
+results\publication_evidence\leakage_audit.csv,leakage_audit.csv,Evaluation Metric / Table,Experimental metric,1376,2026-10-07 12:20:58
+results\publication_evidence\meta_feature_dictionary.csv,meta_feature_dictionary.csv,Evaluation Metric / Table,Experimental metric,4196,2026-10-07 12:21:01
+results\publication_evidence\model_registry.csv,model_registry.csv,Evaluation Metric / Table,Experimental metric,1831,2026-10-07 12:20:58
+results\publication_evidence\PAPER_EVIDENCE_SUMMARY.md,PAPER_EVIDENCE_SUMMARY.md,Documentation / Manuscript,Research documentation,9913,2026-10-07 12:21:02
+results\publication_evidence\preprocessing_summary.md,preprocessing_summary.md,Documentation / Manuscript,Research documentation,3400,2026-10-07 12:20:58
+results\publication_evidence\reproducibility.md,reproducibility.md,Documentation / Manuscript,Research documentation,2051,2026-10-07 12:21:02
+results\publication_evidence\stacking_vs_hybrid.csv,stacking_vs_hybrid.csv,Evaluation Metric / Table,Experimental metric,534,2026-10-07 12:21:00
+results\publication_evidence\stacking_vs_hybrid_interpretation.md,stacking_vs_hybrid_interpretation.md,Documentation / Manuscript,Research documentation,1673,2026-10-07 12:21:00
+results\publication_evidence\statistical_analysis.csv,statistical_analysis.csv,Evaluation Metric / Table,Experimental metric,3903,2026-10-07 12:21:02
+results\publication_evidence\subgroup_analysis.csv,subgroup_analysis.csv,Evaluation Metric / Table,Experimental metric,847,2026-10-07 12:21:01
+results\publication_evidence\subgroup_analysis_status.md,subgroup_analysis_status.md,Documentation / Manuscript,Research documentation,919,2026-10-07 12:21:01
+results\publication_evidence\table_inventory.csv,table_inventory.csv,Evaluation Metric / Table,Experimental metric,1522,2026-10-07 12:21:02
+results\publication_evidence\calibration\calibration_metrics.csv,calibration_metrics.csv,Evaluation Metric / Table,Experimental metric,317,2026-10-07 12:21:01
+results\publication_evidence\calibration\calibration_summary.md,calibration_summary.md,Documentation / Manuscript,Research documentation,1227,2026-10-07 12:21:01
+results\publication_evidence\calibration\reliability_plot.png,reliability_plot.png,Publication Figure,Visual analytics output,308748,2026-10-06 23:13:35
+results\publication_evidence\CLAUDE_REWRITE_PACKAGE\CALIBRATION_MASTER.csv,CALIBRATION_MASTER.csv,Evaluation Metric / Table,Experimental metric,856,2026-10-12 10:37:30
+results\publication_evidence\CLAUDE_REWRITE_PACKAGE\IMPROVEMENT_EXPERIMENT_RESULTS.csv,IMPROVEMENT_EXPERIMENT_RESULTS.csv,Evaluation Metric / Table,Experimental metric,12529,2026-10-12 10:38:56
+results\publication_evidence\CLAUDE_REWRITE_PACKAGE\META_FEATURES_TEST.csv,META_FEATURES_TEST.csv,Evaluation Metric / Table,Experimental metric,38716125,2026-10-12 10:35:19
+results\publication_evidence\CLAUDE_REWRITE_PACKAGE\META_FEATURES_TRAIN_CORRECTED.csv,META_FEATURES_TRAIN_CORRECTED.csv,Evaluation Metric / Table,Experimental metric,163812471,2026-10-12 10:35:16
+results\publication_evidence\CLAUDE_REWRITE_PACKAGE\META_FEATURES_TRAIN_ORIGINAL.csv,META_FEATURES_TRAIN_ORIGINAL.csv,Evaluation Metric / Table,Experimental metric,156625197,2026-10-12 10:35:01
+results\publication_evidence\CLAUDE_REWRITE_PACKAGE\MISSING_ARTIFACTS.txt,MISSING_ARTIFACTS.txt,Documentation / Manuscript,Research documentation,1557,2026-10-12 10:38:56
+results\publication_evidence\CLAUDE_REWRITE_PACKAGE\MODEL_COMPARISON_MASTER.csv,MODEL_COMPARISON_MASTER.csv,Evaluation Metric / Table,Experimental metric,2679,2026-10-12 10:37:32
+results\publication_evidence\CLAUDE_REWRITE_PACKAGE\OOF_PREDICTIONS_CORRECTED.csv,OOF_PREDICTIONS_CORRECTED.csv,Evaluation Metric / Table,Experimental metric,82065639,2026-10-12 10:37:30
+results\publication_evidence\CLAUDE_REWRITE_PACKAGE\OOF_PREDICTIONS_ORIGINAL.csv,OOF_PREDICTIONS_ORIGINAL.csv,Evaluation Metric / Table,Experimental metric,77548573,2026-10-12 10:37:20
+results\publication_evidence\CLAUDE_REWRITE_PACKAGE\RELIABILITY_DIAGRAM_DATA.csv,RELIABILITY_DIAGRAM_DATA.csv,Evaluation Metric / Table,Experimental metric,6175,2026-10-12 10:37:30
+results\publication_evidence\CLAUDE_REWRITE_PACKAGE\SUBGROUP_ANALYSIS_MASTER.csv,SUBGROUP_ANALYSIS_MASTER.csv,Evaluation Metric / Table,Experimental metric,18337,2026-10-12 10:37:32
+results\publication_evidence\CLAUDE_REWRITE_PACKAGE\TEST_PREDICTIONS_MASTER.csv,TEST_PREDICTIONS_MASTER.csv,Evaluation Metric / Table,Experimental metric,31237696,2026-10-12 10:37:10
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\03_correlation_heatmap.png,03_correlation_heatmap.png,Publication Figure,Visual analytics output,296240,2026-10-06 21:46:27
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\10_calibration_curves.png,10_calibration_curves.png,Publication Figure,Visual analytics output,308748,2026-10-06 23:13:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\10_key_metrics_comparison.png,10_key_metrics_comparison.png,Publication Figure,Visual analytics output,69872,2026-10-06 23:13:31
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\10_per_class_recall_heatmap.png,10_per_class_recall_heatmap.png,Publication Figure,Visual analytics output,79280,2026-10-06 23:13:36
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\10_pr_all_models.png,10_pr_all_models.png,Publication Figure,Visual analytics output,353964,2026-10-06 23:13:34
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\10_roc_all_models.png,10_roc_all_models.png,Publication Figure,Visual analytics output,512663,2026-10-06 23:13:33
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\11_complementarity_heatmap.png,11_complementarity_heatmap.png,Publication Figure,Visual analytics output,103021,2026-10-06 23:13:43
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\11_error_overlap_heatmap.png,11_error_overlap_heatmap.png,Publication Figure,Visual analytics output,117330,2026-10-06 23:13:43
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\12_ablation_comparison.png,12_ablation_comparison.png,Publication Figure,Visual analytics output,66173,2026-10-06 23:16:01
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\calibration_metrics.csv,calibration_metrics.csv,Evaluation Metric / Table,Experimental metric,317,2026-10-07 12:21:01
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\calibration_summary.md,calibration_summary.md,Documentation / Manuscript,Research documentation,1227,2026-10-07 12:21:01
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\classwise_test_results.csv,classwise_test_results.csv,Evaluation Metric / Table,Experimental metric,1896,2026-10-07 12:20:59
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\class_distribution.csv,class_distribution.csv,Evaluation Metric / Table,Experimental metric,113,2026-10-07 12:20:58
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\confusion_matrix_summary.csv,confusion_matrix_summary.csv,Evaluation Metric / Table,Experimental metric,467,2026-10-07 12:21:00
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\dataset1_summary.csv,dataset1_summary.csv,Dataset / Data Artifact,Primary / Processed data,1239,2026-10-07 12:20:58
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\data_code_availability.md,data_code_availability.md,Documentation / Manuscript,Research documentation,1338,2026-10-07 12:21:02
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\experiment_history.csv,experiment_history.csv,Evaluation Metric / Table,Experimental metric,1898,2026-10-07 12:21:01
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\failure_analysis_summary.md,failure_analysis_summary.md,Documentation / Manuscript,Research documentation,1953,2026-10-07 12:21:01
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\feature_dictionary.csv,feature_dictionary.csv,Evaluation Metric / Table,Experimental metric,4112,2026-10-07 12:20:58
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\figure_inventory.csv,figure_inventory.csv,Evaluation Metric / Table,Experimental metric,4295,2026-10-07 12:21:02
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\final_ablation.csv,final_ablation.csv,Evaluation Metric / Table,Experimental metric,673,2026-10-07 12:21:01
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\FINAL_CONSISTENCY_CHECK.md,FINAL_CONSISTENCY_CHECK.md,Documentation / Manuscript,Research documentation,1526,2026-10-07 12:21:02
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\final_experiment_configuration.json,final_experiment_configuration.json,Miscellaneous,Supporting artifact,9366,2026-10-07 12:20:57
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\final_locked_test_results.csv,final_locked_test_results.csv,Evaluation Metric / Table,Experimental metric,3041,2026-10-07 12:20:59
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\final_model_comparison.csv,final_model_comparison.csv,Evaluation Metric / Table,Experimental metric,687,2026-10-07 12:21:00
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\final_model_comparison.png,final_model_comparison.png,Publication Figure,Visual analytics output,95703,2026-10-07 09:46:55
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\final_model_comparison_v2_300dpi.png,final_model_comparison_v2_300dpi.png,Publication Figure,Visual analytics output,455137,2026-10-07 10:08:08
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\hybrid_pipeline.md,hybrid_pipeline.md,Documentation / Manuscript,Research documentation,3417,2026-10-07 12:21:01
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\hyperparameter_optimization.csv,hyperparameter_optimization.csv,Evaluation Metric / Table,Experimental metric,1614,2026-10-07 12:20:58
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\leakage_audit.csv,leakage_audit.csv,Evaluation Metric / Table,Experimental metric,1376,2026-10-07 12:20:58
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\lime_examples.png,lime_examples.png,Publication Figure,Visual analytics output,51176,2026-10-06 23:17:59
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\lime_summary.md,lime_summary.md,Documentation / Manuscript,Research documentation,1234,2026-10-07 12:21:01
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\meta_feature_dictionary.csv,meta_feature_dictionary.csv,Evaluation Metric / Table,Experimental metric,4196,2026-10-07 12:21:01
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\model_registry.csv,model_registry.csv,Evaluation Metric / Table,Experimental metric,1831,2026-10-07 12:20:58
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\PAPER_EVIDENCE_SUMMARY.md,PAPER_EVIDENCE_SUMMARY.md,Documentation / Manuscript,Research documentation,9913,2026-10-07 12:21:02
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\preprocessing_summary.md,preprocessing_summary.md,Documentation / Manuscript,Research documentation,3400,2026-10-07 12:20:58
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\reproducibility.md,reproducibility.md,Documentation / Manuscript,Research documentation,2051,2026-10-07 12:21:02
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\shap_class1_summary.png,shap_class1_summary.png,Publication Figure,Visual analytics output,267670,2026-10-06 23:17:57
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\shap_class2_summary.png,shap_class2_summary.png,Publication Figure,Visual analytics output,236669,2026-10-06 23:17:56
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\shap_summary.md,shap_summary.md,Documentation / Manuscript,Research documentation,2222,2026-10-07 12:21:01
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\shap_summary.png,shap_summary.png,Publication Figure,Visual analytics output,89734,2026-10-06 23:17:58
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\shap_waterfall_sample.png,shap_waterfall_sample.png,Publication Figure,Visual analytics output,83388,2026-10-06 23:17:58
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\stacking_vs_hybrid.csv,stacking_vs_hybrid.csv,Evaluation Metric / Table,Experimental metric,534,2026-10-07 12:21:00
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\statistical_analysis.csv,statistical_analysis.csv,Evaluation Metric / Table,Experimental metric,3903,2026-10-07 12:21:02
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\subgroup_analysis.csv,subgroup_analysis.csv,Evaluation Metric / Table,Experimental metric,847,2026-10-07 12:21:01
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\surveillance_interpretation.md,surveillance_interpretation.md,Documentation / Manuscript,Research documentation,1637,2026-10-07 12:21:02
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE\table_inventory.csv,table_inventory.csv,Evaluation Metric / Table,Experimental metric,1522,2026-10-07 12:21:02
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\FINAL_AUTHORITATIVE_SUMMARY.md,FINAL_AUTHORITATIVE_SUMMARY.md,Documentation / Manuscript,Research documentation,3053,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\FINAL_CONSISTENCY_CHECK_V2.md,FINAL_CONSISTENCY_CHECK_V2.md,Documentation / Manuscript,Research documentation,1432,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\01_AUTHORITATIVE_CONFIGURATION\final_experiment_configuration.json,final_experiment_configuration.json,Miscellaneous,Supporting artifact,9366,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\01_AUTHORITATIVE_CONFIGURATION\production_lineage.md,production_lineage.md,Documentation / Manuscript,Research documentation,946,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\02_DATASET\authoritative_dataset1_summary.csv,authoritative_dataset1_summary.csv,Dataset / Data Artifact,Primary / Processed data,96,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\02_DATASET\authoritative_feature_dictionary.csv,authoritative_feature_dictionary.csv,Evaluation Metric / Table,Experimental metric,361,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\02_DATASET\duplicate_leakage_audit.md,duplicate_leakage_audit.md,Documentation / Manuscript,Research documentation,186,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\03_PREPROCESSING\leakage_audit.csv,leakage_audit.csv,Evaluation Metric / Table,Experimental metric,1376,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\03_PREPROCESSING\preprocessing_summary.md,preprocessing_summary.md,Documentation / Manuscript,Research documentation,3400,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\04_MODEL_REGISTRY\authoritative_model_registry.csv,authoritative_model_registry.csv,Evaluation Metric / Table,Experimental metric,727,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\05_HYPERPARAMETERS\authoritative_hyperparameter_audit.csv,authoritative_hyperparameter_audit.csv,Evaluation Metric / Table,Experimental metric,121,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\06_BASE_MODEL_RESULTS\final_locked_test_results.csv,final_locked_test_results.csv,Evaluation Metric / Table,Experimental metric,3041,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\07_STACKING\authoritative_stacking_results.csv,authoritative_stacking_results.csv,Evaluation Metric / Table,Experimental metric,593,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\08_SOFT_VOTING\authoritative_soft_voting_results.csv,authoritative_soft_voting_results.csv,Evaluation Metric / Table,Experimental metric,594,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\09_FAILURE_AWARE_HYBRID\authoritative_hybrid_results.csv,authoritative_hybrid_results.csv,Evaluation Metric / Table,Experimental metric,592,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\09_FAILURE_AWARE_HYBRID\authoritative_meta_feature_dictionary.csv,authoritative_meta_feature_dictionary.csv,Evaluation Metric / Table,Experimental metric,2327,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\10_ABLATION\ablation_interpretation.md,ablation_interpretation.md,Documentation / Manuscript,Research documentation,161,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\10_ABLATION\authoritative_ablation.csv,authoritative_ablation.csv,Evaluation Metric / Table,Experimental metric,2395,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\11_FAILURE_ANALYSIS\failure_analysis_summary.md,failure_analysis_summary.md,Documentation / Manuscript,Research documentation,1953,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\12_SHAP\authoritative_shap_audit.md,authoritative_shap_audit.md,Documentation / Manuscript,Research documentation,145,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\12_SHAP\shap_summary.md,shap_summary.md,Documentation / Manuscript,Research documentation,2222,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\12_SHAP\waterfall_verification.md,waterfall_verification.md,Documentation / Manuscript,Research documentation,213,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\13_LIME\authoritative_lime_audit.md,authoritative_lime_audit.md,Documentation / Manuscript,Research documentation,173,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\13_LIME\lime_summary.md,lime_summary.md,Documentation / Manuscript,Research documentation,1234,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\14_CALIBRATION\calibration_metrics.csv,calibration_metrics.csv,Evaluation Metric / Table,Experimental metric,317,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\14_CALIBRATION\calibration_summary.md,calibration_summary.md,Documentation / Manuscript,Research documentation,1227,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\15_SUBGROUP\subgroup_analysis.csv,subgroup_analysis.csv,Evaluation Metric / Table,Experimental metric,847,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\16_SURVEILLANCE\diabetes_indicators.csv,diabetes_indicators.csv,Evaluation Metric / Table,Experimental metric,157,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\16_SURVEILLANCE\surveillance_summary.md,surveillance_summary.md,Documentation / Manuscript,Research documentation,172,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\17_STATISTICS\statistical_analysis.csv,statistical_analysis.csv,Evaluation Metric / Table,Experimental metric,3903,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\03_correlation_heatmap.png,03_correlation_heatmap.png,Publication Figure,Visual analytics output,296240,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\10_calibration_curves.png,10_calibration_curves.png,Publication Figure,Visual analytics output,308748,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\10_key_metrics_comparison.png,10_key_metrics_comparison.png,Publication Figure,Visual analytics output,69872,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\10_per_class_recall_heatmap.png,10_per_class_recall_heatmap.png,Publication Figure,Visual analytics output,79280,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\10_pr_all_models.png,10_pr_all_models.png,Publication Figure,Visual analytics output,353964,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\10_roc_all_models.png,10_roc_all_models.png,Publication Figure,Visual analytics output,512663,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\11_complementarity_heatmap.png,11_complementarity_heatmap.png,Publication Figure,Visual analytics output,103021,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\11_error_overlap_heatmap.png,11_error_overlap_heatmap.png,Publication Figure,Visual analytics output,117330,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\12_ablation_comparison.png,12_ablation_comparison.png,Publication Figure,Visual analytics output,66173,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\final_model_comparison.png,final_model_comparison.png,Publication Figure,Visual analytics output,95703,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\final_model_comparison_v2_300dpi.png,final_model_comparison_v2_300dpi.png,Publication Figure,Visual analytics output,455137,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\lime_examples.png,lime_examples.png,Publication Figure,Visual analytics output,51176,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\shap_class1_summary.png,shap_class1_summary.png,Publication Figure,Visual analytics output,267670,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\shap_class2_summary.png,shap_class2_summary.png,Publication Figure,Visual analytics output,236669,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\shap_summary.png,shap_summary.png,Publication Figure,Visual analytics output,89734,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\18_FIGURES\shap_waterfall_sample.png,shap_waterfall_sample.png,Publication Figure,Visual analytics output,83388,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\calibration_metrics.csv,calibration_metrics.csv,Evaluation Metric / Table,Experimental metric,317,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\classwise_test_results.csv,classwise_test_results.csv,Evaluation Metric / Table,Experimental metric,1896,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\class_distribution.csv,class_distribution.csv,Evaluation Metric / Table,Experimental metric,113,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\confusion_matrix_summary.csv,confusion_matrix_summary.csv,Evaluation Metric / Table,Experimental metric,467,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\dataset1_summary.csv,dataset1_summary.csv,Dataset / Data Artifact,Primary / Processed data,1239,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\experiment_history.csv,experiment_history.csv,Evaluation Metric / Table,Experimental metric,1898,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\feature_dictionary.csv,feature_dictionary.csv,Evaluation Metric / Table,Experimental metric,4112,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\figure_inventory.csv,figure_inventory.csv,Evaluation Metric / Table,Experimental metric,4295,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\final_ablation.csv,final_ablation.csv,Evaluation Metric / Table,Experimental metric,673,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\final_locked_test_results.csv,final_locked_test_results.csv,Evaluation Metric / Table,Experimental metric,3041,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\final_model_comparison.csv,final_model_comparison.csv,Evaluation Metric / Table,Experimental metric,687,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\hyperparameter_optimization.csv,hyperparameter_optimization.csv,Evaluation Metric / Table,Experimental metric,1614,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\leakage_audit.csv,leakage_audit.csv,Evaluation Metric / Table,Experimental metric,1376,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\meta_feature_dictionary.csv,meta_feature_dictionary.csv,Evaluation Metric / Table,Experimental metric,4196,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\model_registry.csv,model_registry.csv,Evaluation Metric / Table,Experimental metric,1831,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\stacking_vs_hybrid.csv,stacking_vs_hybrid.csv,Evaluation Metric / Table,Experimental metric,534,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\statistical_analysis.csv,statistical_analysis.csv,Evaluation Metric / Table,Experimental metric,3903,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\subgroup_analysis.csv,subgroup_analysis.csv,Evaluation Metric / Table,Experimental metric,847,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\19_TABLES\table_inventory.csv,table_inventory.csv,Evaluation Metric / Table,Experimental metric,1522,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\20_REPRODUCIBILITY\data_code_availability.md,data_code_availability.md,Documentation / Manuscript,Research documentation,1338,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\20_REPRODUCIBILITY\exp03_exclusion_statement.md,exp03_exclusion_statement.md,Documentation / Manuscript,Research documentation,186,2026-10-07 12:43:35
+results\publication_evidence\CLAUDE_UPLOAD_PACKAGE_V2\20_REPRODUCIBILITY\reproducibility.md,reproducibility.md,Documentation / Manuscript,Research documentation,2051,2026-10-07 12:43:35
+results\publication_evidence\confusion_matrices\catboost_confusion_matrix.csv,catboost_confusion_matrix.csv,Evaluation Metric / Table,Experimental metric,148,2026-10-07 12:21:00
+results\publication_evidence\confusion_matrices\catboost_confusion_matrix.png,catboost_confusion_matrix.png,Publication Figure,Visual analytics output,41392,2026-10-07 12:21:00
+results\publication_evidence\confusion_matrices\decisiontree_confusion_matrix.csv,decisiontree_confusion_matrix.csv,Evaluation Metric / Table,Experimental metric,148,2026-10-07 12:20:59
+results\publication_evidence\confusion_matrices\decisiontree_confusion_matrix.png,decisiontree_confusion_matrix.png,Publication Figure,Visual analytics output,42440,2026-10-07 12:20:59
+results\publication_evidence\confusion_matrices\lightgbm_confusion_matrix.csv,lightgbm_confusion_matrix.csv,Evaluation Metric / Table,Experimental metric,148,2026-10-07 12:21:00
+results\publication_evidence\confusion_matrices\lightgbm_confusion_matrix.png,lightgbm_confusion_matrix.png,Publication Figure,Visual analytics output,41449,2026-10-07 12:21:00
+results\publication_evidence\confusion_matrices\logisticregression_confusion_matrix.csv,logisticregression_confusion_matrix.csv,Evaluation Metric / Table,Experimental metric,148,2026-10-07 12:20:59
+results\publication_evidence\confusion_matrices\logisticregression_confusion_matrix.png,logisticregression_confusion_matrix.png,Publication Figure,Visual analytics output,42545,2026-10-07 12:20:59
+results\publication_evidence\confusion_matrices\randomforest_confusion_matrix.csv,randomforest_confusion_matrix.csv,Evaluation Metric / Table,Experimental metric,147,2026-10-07 12:20:59
+results\publication_evidence\confusion_matrices\randomforest_confusion_matrix.png,randomforest_confusion_matrix.png,Publication Figure,Visual analytics output,44208,2026-10-07 12:20:59
+results\publication_evidence\confusion_matrices\svm_confusion_matrix.csv,svm_confusion_matrix.csv,Evaluation Metric / Table,Experimental metric,142,2026-10-07 12:20:59
+results\publication_evidence\confusion_matrices\svm_confusion_matrix.png,svm_confusion_matrix.png,Publication Figure,Visual analytics output,41474,2026-10-07 12:20:59
+results\publication_evidence\confusion_matrices\xgboost_confusion_matrix.csv,xgboost_confusion_matrix.csv,Evaluation Metric / Table,Experimental metric,145,2026-10-07 12:20:59
+results\publication_evidence\confusion_matrices\xgboost_confusion_matrix.png,xgboost_confusion_matrix.png,Publication Figure,Visual analytics output,41519,2026-10-07 12:21:00
+results\publication_evidence\failure_analysis\class_specific_errors.csv,class_specific_errors.csv,Evaluation Metric / Table,Experimental metric,2170,2026-10-07 12:21:01
+results\publication_evidence\failure_analysis\complementary_correctness_matrix.csv,complementary_correctness_matrix.csv,Evaluation Metric / Table,Experimental metric,707,2026-10-07 12:21:00
+results\publication_evidence\failure_analysis\error_overlap_matrix.csv,error_overlap_matrix.csv,Evaluation Metric / Table,Experimental metric,348,2026-10-07 12:21:00
+results\publication_evidence\failure_analysis\failure_analysis_summary.md,failure_analysis_summary.md,Documentation / Manuscript,Research documentation,1953,2026-10-07 12:21:01
+results\publication_evidence\failure_analysis\model_disagreement_matrix.csv,model_disagreement_matrix.csv,Evaluation Metric / Table,Experimental metric,171,2026-10-07 12:21:01
+results\publication_evidence\failure_analysis\model_error_rates.csv,model_error_rates.csv,Evaluation Metric / Table,Experimental metric,516,2026-10-07 12:21:00
+results\publication_evidence\lime\lime_examples.png,lime_examples.png,Publication Figure,Visual analytics output,51176,2026-10-06 23:17:59
+results\publication_evidence\lime\lime_summary.md,lime_summary.md,Documentation / Manuscript,Research documentation,1234,2026-10-07 12:21:01
+results\publication_evidence\PRODUCTION_AUDIT\ablation_interpretation.md,ablation_interpretation.md,Documentation / Manuscript,Research documentation,161,2026-10-07 12:42:56
+results\publication_evidence\PRODUCTION_AUDIT\authoritative_ablation.csv,authoritative_ablation.csv,Evaluation Metric / Table,Experimental metric,2395,2026-10-07 12:42:56
+results\publication_evidence\PRODUCTION_AUDIT\authoritative_dataset1_summary.csv,authoritative_dataset1_summary.csv,Dataset / Data Artifact,Primary / Processed data,96,2026-10-07 12:42:56
+results\publication_evidence\PRODUCTION_AUDIT\authoritative_feature_dictionary.csv,authoritative_feature_dictionary.csv,Evaluation Metric / Table,Experimental metric,361,2026-10-07 12:42:56
+results\publication_evidence\PRODUCTION_AUDIT\authoritative_hybrid_results.csv,authoritative_hybrid_results.csv,Evaluation Metric / Table,Experimental metric,592,2026-10-07 12:42:55
+results\publication_evidence\PRODUCTION_AUDIT\authoritative_hyperparameter_audit.csv,authoritative_hyperparameter_audit.csv,Evaluation Metric / Table,Experimental metric,121,2026-10-07 12:42:55
+results\publication_evidence\PRODUCTION_AUDIT\authoritative_lime_audit.md,authoritative_lime_audit.md,Documentation / Manuscript,Research documentation,173,2026-10-07 12:42:55
+results\publication_evidence\PRODUCTION_AUDIT\authoritative_meta_feature_dictionary.csv,authoritative_meta_feature_dictionary.csv,Evaluation Metric / Table,Experimental metric,2327,2026-10-07 12:42:55
+results\publication_evidence\PRODUCTION_AUDIT\authoritative_model_registry.csv,authoritative_model_registry.csv,Evaluation Metric / Table,Experimental metric,727,2026-10-07 12:42:55
+results\publication_evidence\PRODUCTION_AUDIT\authoritative_shap_audit.md,authoritative_shap_audit.md,Documentation / Manuscript,Research documentation,145,2026-10-07 12:42:55
+results\publication_evidence\PRODUCTION_AUDIT\authoritative_soft_voting_results.csv,authoritative_soft_voting_results.csv,Evaluation Metric / Table,Experimental metric,594,2026-10-07 12:42:55
+results\publication_evidence\PRODUCTION_AUDIT\authoritative_stacking_results.csv,authoritative_stacking_results.csv,Evaluation Metric / Table,Experimental metric,593,2026-10-07 12:42:55
+results\publication_evidence\PRODUCTION_AUDIT\duplicate_leakage_audit.md,duplicate_leakage_audit.md,Documentation / Manuscript,Research documentation,186,2026-10-07 12:42:56
+results\publication_evidence\PRODUCTION_AUDIT\exp03_exclusion_statement.md,exp03_exclusion_statement.md,Documentation / Manuscript,Research documentation,186,2026-10-07 12:42:56
+results\publication_evidence\PRODUCTION_AUDIT\production_lineage.md,production_lineage.md,Documentation / Manuscript,Research documentation,946,2026-10-07 12:42:55
+results\publication_evidence\PRODUCTION_AUDIT\waterfall_verification.md,waterfall_verification.md,Documentation / Manuscript,Research documentation,213,2026-10-07 12:42:55
+results\publication_evidence\PRODUCTION_AUDIT\surveillance\diabetes_indicators.csv,diabetes_indicators.csv,Evaluation Metric / Table,Experimental metric,157,2026-10-07 12:42:55
+results\publication_evidence\PRODUCTION_AUDIT\surveillance\surveillance_summary.md,surveillance_summary.md,Documentation / Manuscript,Research documentation,172,2026-10-07 12:42:55
+results\publication_evidence\shap\shap_class1_summary.png,shap_class1_summary.png,Publication Figure,Visual analytics output,267670,2026-10-06 23:17:57
+results\publication_evidence\shap\shap_class2_summary.png,shap_class2_summary.png,Publication Figure,Visual analytics output,236669,2026-10-06 23:17:56
+results\publication_evidence\shap\shap_summary.md,shap_summary.md,Documentation / Manuscript,Research documentation,2222,2026-10-07 12:21:01
+results\publication_evidence\shap\shap_summary.png,shap_summary.png,Publication Figure,Visual analytics output,89734,2026-10-06 23:17:58
+results\publication_evidence\shap\shap_waterfall_sample.png,shap_waterfall_sample.png,Publication Figure,Visual analytics output,83388,2026-10-06 23:17:58
+results\publication_evidence\surveillance\age_summary.csv,age_summary.csv,Evaluation Metric / Table,Experimental metric,174,2026-10-07 12:21:02
+results\publication_evidence\surveillance\dataset2_summary.csv,dataset2_summary.csv,Dataset / Data Artifact,Primary / Processed data,258,2026-10-07 12:21:02
+results\publication_evidence\surveillance\data_source_summary.csv,data_source_summary.csv,Dataset / Data Artifact,Primary / Processed data,109,2026-10-07 12:21:02
+results\publication_evidence\surveillance\education_summary.csv,education_summary.csv,Evaluation Metric / Table,Experimental metric,102,2026-10-07 12:21:02
+results\publication_evidence\surveillance\estimate_footnote_summary.csv,estimate_footnote_summary.csv,Evaluation Metric / Table,Experimental metric,41,2026-10-07 12:21:02
+results\publication_evidence\surveillance\estimate_summary.csv,estimate_summary.csv,Evaluation Metric / Table,Experimental metric,178,2026-10-07 12:21:02
+results\publication_evidence\surveillance\indicator_summary.csv,indicator_summary.csv,Evaluation Metric / Table,Experimental metric,197,2026-10-07 12:21:02
+results\publication_evidence\surveillance\lower_limit_summary.csv,lower_limit_summary.csv,Evaluation Metric / Table,Experimental metric,188,2026-10-07 12:21:02
+results\publication_evidence\surveillance\other_stratification_summary.csv,other_stratification_summary.csv,Evaluation Metric / Table,Experimental metric,255,2026-10-07 12:21:02
+results\publication_evidence\surveillance\population_summary.csv,population_summary.csv,Evaluation Metric / Table,Experimental metric,241,2026-10-07 12:21:02
+results\publication_evidence\surveillance\race_summary.csv,race_summary.csv,Evaluation Metric / Table,Experimental metric,207,2026-10-07 12:21:02
+results\publication_evidence\surveillance\sex_summary.csv,sex_summary.csv,Evaluation Metric / Table,Experimental metric,44,2026-10-07 12:21:02
+results\publication_evidence\surveillance\se_estimate_summary.csv,se_estimate_summary.csv,Evaluation Metric / Table,Experimental metric,200,2026-10-07 12:21:02
+results\publication_evidence\surveillance\surveillance_interpretation.md,surveillance_interpretation.md,Documentation / Manuscript,Research documentation,1637,2026-10-07 12:21:02
+results\publication_evidence\surveillance\topic_summary.csv,topic_summary.csv,Evaluation Metric / Table,Experimental metric,37,2026-10-07 12:21:02
+results\publication_evidence\surveillance\unit_summary.csv,unit_summary.csv,Evaluation Metric / Table,Experimental metric,106,2026-10-07 12:21:02
+results\publication_evidence\surveillance\upper_limit_summary.csv,upper_limit_summary.csv,Evaluation Metric / Table,Experimental metric,177,2026-10-07 12:21:02
+results\publication_evidence\surveillance\yearly_trends.csv,yearly_trends.csv,Evaluation Metric / Table,Experimental metric,262,2026-10-07 12:21:02
+results\publication_evidence\surveillance\yearly_trends.png,yearly_trends.png,Publication Figure,Visual analytics output,56664,2026-10-07 12:21:02
+results\surveillance\15_trend_age.png,15_trend_age.png,Publication Figure,Visual analytics output,384409,2026-10-06 23:18:16
+results\tables\01_data_quality_report.csv,01_data_quality_report.csv,Dataset / Data Artifact,Primary / Processed data,452,2026-10-06 21:46:09
+results\tables\01_descriptive_stats.csv,01_descriptive_stats.csv,Evaluation Metric / Table,Experimental metric,1315,2026-10-06 21:46:09
+results\tables\01_feature_ranges.csv,01_feature_ranges.csv,Evaluation Metric / Table,Experimental metric,526,2026-10-06 21:46:09
+results\tables\01_feature_type_summary.csv,01_feature_type_summary.csv,Evaluation Metric / Table,Experimental metric,490,2026-10-06 21:46:09
+results\tables\02_preprocessing_metadata.csv,02_preprocessing_metadata.csv,Dataset / Data Artifact,Primary / Processed data,1037,2026-10-06 21:46:17
+results\tables\03_binary_prevalence.csv,03_binary_prevalence.csv,Evaluation Metric / Table,Experimental metric,443,2026-10-06 21:46:24
+results\tables\04_chi_square.csv,04_chi_square.csv,Evaluation Metric / Table,Experimental metric,1174,2026-10-06 21:48:23
+results\tables\04_descriptive_by_class.csv,04_descriptive_by_class.csv,Evaluation Metric / Table,Experimental metric,3022,2026-10-06 21:48:23
+results\tables\04_effect_sizes.csv,04_effect_sizes.csv,Evaluation Metric / Table,Experimental metric,1334,2026-10-06 21:48:23
+results\tables\04_kruskal_wallis.csv,04_kruskal_wallis.csv,Evaluation Metric / Table,Experimental metric,522,2026-10-06 21:48:23
+results\tables\04_multiple_testing_correction.csv,04_multiple_testing_correction.csv,Evaluation Metric / Table,Experimental metric,1162,2026-10-06 21:48:23
+results\tables\04_spearman_correlations.csv,04_spearman_correlations.csv,Evaluation Metric / Table,Experimental metric,1541,2026-10-06 21:48:23
+results\tables\05_feature_dictionary.csv,05_feature_dictionary.csv,Evaluation Metric / Table,Experimental metric,2194,2026-10-06 21:48:32
+results\tables\06_combined_rankings.csv,06_combined_rankings.csv,Evaluation Metric / Table,Experimental metric,1232,2026-10-06 21:55:25
+results\tables\06_l1_selection.csv,06_l1_selection.csv,Evaluation Metric / Table,Experimental metric,968,2026-10-06 21:55:25
+results\tables\06_mutual_information.csv,06_mutual_information.csv,Evaluation Metric / Table,Experimental metric,971,2026-10-06 21:50:22
+results\tables\06_rf_importance.csv,06_rf_importance.csv,Evaluation Metric / Table,Experimental metric,966,2026-10-06 21:50:26
+results\tables\09_best_params.csv,09_best_params.csv,Evaluation Metric / Table,Experimental metric,935,2026-10-06 23:07:37
+results\tables\11_error_complementarity.csv,11_error_complementarity.csv,Evaluation Metric / Table,Experimental metric,711,2026-10-06 23:13:43
+results\tables\11_error_overlap_counts.csv,11_error_overlap_counts.csv,Evaluation Metric / Table,Experimental metric,348,2026-10-06 23:13:43
+results\tables\16_research_answers.csv,16_research_answers.csv,Evaluation Metric / Table,Experimental metric,1217,2026-10-06 23:18:21
+results\tables\final_model_comparison_plot_data.csv,final_model_comparison_plot_data.csv,Dataset / Data Artifact,Primary / Processed data,1078,2026-10-07 10:08:06
+results\tables\oof_weight_correction_comparison.csv,oof_weight_correction_comparison.csv,Evaluation Metric / Table,Experimental metric,585,2026-10-12 11:43:33
+results\tables\target_distribution.csv,target_distribution.csv,Evaluation Metric / Table,Experimental metric,117,2026-10-06 21:46:08
+src\config.py,config.py,Source Code / Script,Pipeline / Analysis module,3104,2026-10-06 21:17:56
+src\data_utils.py,data_utils.py,Source Code / Script,Pipeline / Analysis module,7392,2026-10-06 21:18:58
+src\evaluation.py,evaluation.py,Source Code / Script,Pipeline / Analysis module,4180,2026-10-06 21:18:21
+src\plotting.py,plotting.py,Source Code / Script,Pipeline / Analysis module,5245,2026-10-06 21:19:23
+src\__init__.py,__init__.py,Source Code / Script,Pipeline / Analysis module,91,2026-10-06 21:17:38

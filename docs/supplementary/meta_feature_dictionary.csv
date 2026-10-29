@@ -1,0 +1,51 @@
+feature_name,feature_index,category,source_base_model,mathematical_formulation,value_range,description
+XGBoost_prob_0,0,Class Probability,XGBoost,"XGBoost.predict_proba(X)[:, 0]","[0.0, 1.0]",Predicted probability of Class 0 (No Diabetes) from XGBoost
+XGBoost_prob_1,1,Class Probability,XGBoost,"XGBoost.predict_proba(X)[:, 1]","[0.0, 1.0]",Predicted probability of Class 1 (Prediabetes) from XGBoost
+XGBoost_prob_2,2,Class Probability,XGBoost,"XGBoost.predict_proba(X)[:, 2]","[0.0, 1.0]",Predicted probability of Class 2 (Diabetes) from XGBoost
+LightGBM_prob_0,3,Class Probability,LightGBM,"LightGBM.predict_proba(X)[:, 0]","[0.0, 1.0]",Predicted probability of Class 0 (No Diabetes) from LightGBM
+LightGBM_prob_1,4,Class Probability,LightGBM,"LightGBM.predict_proba(X)[:, 1]","[0.0, 1.0]",Predicted probability of Class 1 (Prediabetes) from LightGBM
+LightGBM_prob_2,5,Class Probability,LightGBM,"LightGBM.predict_proba(X)[:, 2]","[0.0, 1.0]",Predicted probability of Class 2 (Diabetes) from LightGBM
+CatBoost_prob_0,6,Class Probability,CatBoost,"CatBoost.predict_proba(X)[:, 0]","[0.0, 1.0]",Predicted probability of Class 0 (No Diabetes) from CatBoost
+CatBoost_prob_1,7,Class Probability,CatBoost,"CatBoost.predict_proba(X)[:, 1]","[0.0, 1.0]",Predicted probability of Class 1 (Prediabetes) from CatBoost
+CatBoost_prob_2,8,Class Probability,CatBoost,"CatBoost.predict_proba(X)[:, 2]","[0.0, 1.0]",Predicted probability of Class 2 (Diabetes) from CatBoost
+RandomForest_prob_0,9,Class Probability,Random Forest,"RandomForest.predict_proba(X)[:, 0]","[0.0, 1.0]",Predicted probability of Class 0 (No Diabetes) from Random Forest
+RandomForest_prob_1,10,Class Probability,Random Forest,"RandomForest.predict_proba(X)[:, 1]","[0.0, 1.0]",Predicted probability of Class 1 (Prediabetes) from Random Forest
+RandomForest_prob_2,11,Class Probability,Random Forest,"RandomForest.predict_proba(X)[:, 2]","[0.0, 1.0]",Predicted probability of Class 2 (Diabetes) from Random Forest
+LogisticRegression_prob_0,12,Class Probability,Logistic Regression,"LogisticRegression.predict_proba(X)[:, 0]","[0.0, 1.0]",Predicted probability of Class 0 (No Diabetes) from Logistic Regression
+LogisticRegression_prob_1,13,Class Probability,Logistic Regression,"LogisticRegression.predict_proba(X)[:, 1]","[0.0, 1.0]",Predicted probability of Class 1 (Prediabetes) from Logistic Regression
+LogisticRegression_prob_2,14,Class Probability,Logistic Regression,"LogisticRegression.predict_proba(X)[:, 2]","[0.0, 1.0]",Predicted probability of Class 2 (Diabetes) from Logistic Regression
+DecisionTree_prob_0,15,Class Probability,Decision Tree,"DecisionTree.predict_proba(X)[:, 0]","[0.0, 1.0]",Predicted probability of Class 0 (No Diabetes) from Decision Tree
+DecisionTree_prob_1,16,Class Probability,Decision Tree,"DecisionTree.predict_proba(X)[:, 1]","[0.0, 1.0]",Predicted probability of Class 1 (Prediabetes) from Decision Tree
+DecisionTree_prob_2,17,Class Probability,Decision Tree,"DecisionTree.predict_proba(X)[:, 2]","[0.0, 1.0]",Predicted probability of Class 2 (Diabetes) from Decision Tree
+SVM_prob_0,18,Class Probability,SVM (Modified Huber),"SVM.predict_proba(X)[:, 0]","[0.0, 1.0]",Calibrated probability of Class 0 (No Diabetes) from SVM
+SVM_prob_1,19,Class Probability,SVM (Modified Huber),"SVM.predict_proba(X)[:, 1]","[0.0, 1.0]",Calibrated probability of Class 1 (Prediabetes) from SVM
+SVM_prob_2,20,Class Probability,SVM (Modified Huber),"SVM.predict_proba(X)[:, 2]","[0.0, 1.0]",Calibrated probability of Class 2 (Diabetes) from SVM
+XGBoost_max_conf,21,Model Confidence,XGBoost,"np.max(P_xgb, axis=1)","[0.333, 1.0]",Maximum predicted probability across classes for XGBoost
+XGBoost_entropy,22,Uncertainty (Entropy),XGBoost,-sum(p * log(p + eps)),"[0.0, 1.585]",Shannon entropy of XGBoost probability distribution
+XGBoost_margin,23,Uncertainty (Margin),XGBoost,P_top1 - P_top2,"[0.0, 1.0]",Probability difference between top-1 and top-2 predictions for XGBoost
+LightGBM_max_conf,24,Model Confidence,LightGBM,"np.max(P_lgb, axis=1)","[0.333, 1.0]",Maximum predicted probability across classes for LightGBM
+LightGBM_entropy,25,Uncertainty (Entropy),LightGBM,-sum(p * log(p + eps)),"[0.0, 1.585]",Shannon entropy of LightGBM probability distribution
+LightGBM_margin,26,Uncertainty (Margin),LightGBM,P_top1 - P_top2,"[0.0, 1.0]",Probability difference between top-1 and top-2 predictions for LightGBM
+CatBoost_max_conf,27,Model Confidence,CatBoost,"np.max(P_cat, axis=1)","[0.333, 1.0]",Maximum predicted probability across classes for CatBoost
+CatBoost_entropy,28,Uncertainty (Entropy),CatBoost,-sum(p * log(p + eps)),"[0.0, 1.585]",Shannon entropy of CatBoost probability distribution
+CatBoost_margin,29,Uncertainty (Margin),CatBoost,P_top1 - P_top2,"[0.0, 1.0]",Probability difference between top-1 and top-2 predictions for CatBoost
+RandomForest_max_conf,30,Model Confidence,Random Forest,"np.max(P_rf, axis=1)","[0.333, 1.0]",Maximum predicted probability across classes for Random Forest
+RandomForest_entropy,31,Uncertainty (Entropy),Random Forest,-sum(p * log(p + eps)),"[0.0, 1.585]",Shannon entropy of Random Forest probability distribution
+RandomForest_margin,32,Uncertainty (Margin),Random Forest,P_top1 - P_top2,"[0.0, 1.0]",Probability difference between top-1 and top-2 predictions for Random Forest
+LogisticRegression_max_conf,33,Model Confidence,Logistic Regression,"np.max(P_lr, axis=1)","[0.333, 1.0]",Maximum predicted probability across classes for Logistic Regression
+LogisticRegression_entropy,34,Uncertainty (Entropy),Logistic Regression,-sum(p * log(p + eps)),"[0.0, 1.585]",Shannon entropy of Logistic Regression probability distribution
+LogisticRegression_margin,35,Uncertainty (Margin),Logistic Regression,P_top1 - P_top2,"[0.0, 1.0]",Probability difference between top-1 and top-2 predictions for Logistic Regression
+DecisionTree_max_conf,36,Model Confidence,Decision Tree,"np.max(P_dt, axis=1)","[0.333, 1.0]",Maximum predicted probability across classes for Decision Tree
+DecisionTree_entropy,37,Uncertainty (Entropy),Decision Tree,-sum(p * log(p + eps)),"[0.0, 1.585]",Shannon entropy of Decision Tree probability distribution
+DecisionTree_margin,38,Uncertainty (Margin),Decision Tree,P_top1 - P_top2,"[0.0, 1.0]",Probability difference between top-1 and top-2 predictions for Decision Tree
+SVM_max_conf,39,Model Confidence,SVM (Modified Huber),"np.max(P_svm, axis=1)","[0.333, 1.0]",Maximum predicted probability across classes for SVM
+SVM_entropy,40,Uncertainty (Entropy),SVM (Modified Huber),-sum(p * log(p + eps)),"[0.0, 1.585]",Shannon entropy of SVM probability distribution
+SVM_margin,41,Uncertainty (Margin),SVM (Modified Huber),P_top1 - P_top2,"[0.0, 1.0]",Probability difference between top-1 and top-2 predictions for SVM
+XGBoost_disagrees_with_consensus,42,Disagreement,XGBoost,int(pred_xgb != consensus_vote),"{0, 1}","Binary indicator: 1 if XGBoost prediction disagrees with majority consensus, 0 otherwise"
+LightGBM_disagrees_with_consensus,43,Disagreement,LightGBM,int(pred_lgb != consensus_vote),"{0, 1}","Binary indicator: 1 if LightGBM prediction disagrees with majority consensus, 0 otherwise"
+CatBoost_disagrees_with_consensus,44,Disagreement,CatBoost,int(pred_cat != consensus_vote),"{0, 1}","Binary indicator: 1 if CatBoost prediction disagrees with majority consensus, 0 otherwise"
+RandomForest_disagrees_with_consensus,45,Disagreement,Random Forest,int(pred_rf != consensus_vote),"{0, 1}","Binary indicator: 1 if Random Forest prediction disagrees with majority consensus, 0 otherwise"
+LogisticRegression_disagrees_with_consensus,46,Disagreement,Logistic Regression,int(pred_lr != consensus_vote),"{0, 1}","Binary indicator: 1 if Logistic Regression prediction disagrees with majority consensus, 0 otherwise"
+DecisionTree_disagrees_with_consensus,47,Disagreement,Decision Tree,int(pred_dt != consensus_vote),"{0, 1}","Binary indicator: 1 if Decision Tree prediction disagrees with majority consensus, 0 otherwise"
+SVM_disagrees_with_consensus,48,Disagreement,SVM (Modified Huber),int(pred_svm != consensus_vote),"{0, 1}","Binary indicator: 1 if SVM prediction disagrees with majority consensus, 0 otherwise"
+consensus_agreement_count,49,Consensus Agreement,Ensemble (All 7 Models),max(bincount(all_7_preds)),"[1, 7]",Number of base models agreeing on the modal predicted class

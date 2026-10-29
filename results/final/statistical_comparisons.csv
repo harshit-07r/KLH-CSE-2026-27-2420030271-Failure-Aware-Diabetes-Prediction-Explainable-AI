@@ -1,0 +1,33 @@
+test_type,comparison,metric,mean_val,ci_lower,ci_upper,p_value,significant,notes
+Model 95% Bootstrap CI,Hybrid_Corrected,accuracy,0.6101006583096814,0.6057035438347524,0.6144956244087039,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,Hybrid_Corrected,macro_f1,0.41616584929591705,0.4123934784151517,0.4201022597860488,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,Hybrid_Corrected,balanced_acc,0.5218081294007564,0.5103134013497016,0.5333241303701359,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,Hybrid_Corrected,prediabetes_recall,0.3887731125241313,0.3570638897588475,0.4200868077965664,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,Stacking_Corrected,accuracy,0.6000565771838537,0.5957500591296121,0.6045219370860927,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,Stacking_Corrected,macro_f1,0.4179852978529527,0.4142479558948874,0.42199380158853644,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,Stacking_Corrected,balanced_acc,0.5278976282678268,0.5168007956919131,0.5393224472644736,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,Stacking_Corrected,prediabetes_recall,0.4061942985962762,0.374307226962555,0.43770151164250737,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,XGBoost,accuracy,0.7580903993219804,0.7544347209082308,0.7617865026805424,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,XGBoost,macro_f1,0.4346338434019219,0.430154543621435,0.4391900994057029,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,XGBoost,balanced_acc,0.4688688037499416,0.4637992095303164,0.4740332062112167,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,XGBoost,prediabetes_recall,0.020409415110230186,0.011414521681234151,0.030403888933026126,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,Soft_Voting,accuracy,0.7476419406338694,0.7438894473352254,0.7512027948596658,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,Soft_Voting,macro_f1,0.4474804947116004,0.44228999966010507,0.45315227378944567,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,Soft_Voting,balanced_acc,0.5026851766315608,0.49720748587774594,0.5086434935020718,,,B=2000 paired bootstrap replicates
+Model 95% Bootstrap CI,Soft_Voting,prediabetes_recall,0.04183468296719112,0.02956549605375747,0.055371162507651096,,,B=2000 paired bootstrap replicates
+Paired Bootstrap Difference,Hybrid_vs_Stacking,accuracy,0.010044081125827817,0.008238233207190113,0.0118461250394197,0.0,True,Difference: Model A - Model B; 2-tailed p=0.0000
+Paired Bootstrap Difference,Hybrid_vs_Stacking,macro_f1,-0.001819448557035603,-0.003915037307590208,0.00015567047175230818,0.08,False,Difference: Model A - Model B; 2-tailed p=0.0800
+Paired Bootstrap Difference,Hybrid_vs_Stacking,balanced_acc,-0.006089498867070489,-0.01358386561573797,0.0012781683038342608,0.103,False,Difference: Model A - Model B; 2-tailed p=0.1030
+Paired Bootstrap Difference,Hybrid_vs_Stacking,prediabetes_recall,-0.017421186072144962,-0.03788520801232662,0.0022933084717139188,0.117,False,Difference: Model A - Model B; 2-tailed p=0.1170
+Paired Bootstrap Difference,Hybrid_vs_XGBoost,accuracy,-0.14798974101229898,-0.1519039735099338,-0.14417721144749288,0.0,True,Difference: Model A - Model B; 2-tailed p=0.0000
+Paired Bootstrap Difference,Hybrid_vs_XGBoost,macro_f1,-0.018467994106004863,-0.022933109196795337,-0.014181017713059976,0.0,True,Difference: Model A - Model B; 2-tailed p=0.0000
+Paired Bootstrap Difference,Hybrid_vs_XGBoost,balanced_acc,0.05293932565081479,0.04140051868129532,0.06448360620438219,0.0,True,Difference: Model A - Model B; 2-tailed p=0.0000
+Paired Bootstrap Difference,Hybrid_vs_XGBoost,prediabetes_recall,0.3683636974139011,0.3369484502798106,0.4012812039161306,0.0,True,Difference: Model A - Model B; 2-tailed p=0.0000
+Paired Bootstrap Difference,Hybrid_vs_SoftVoting,accuracy,-0.13754128232418794,-0.1409255755282245,-0.13422372674235253,0.0,True,Difference: Model A - Model B; 2-tailed p=0.0000
+Paired Bootstrap Difference,Hybrid_vs_SoftVoting,macro_f1,-0.03131464541568332,-0.036137472756891206,-0.02677721186367995,0.0,True,Difference: Model A - Model B; 2-tailed p=0.0000
+Paired Bootstrap Difference,Hybrid_vs_SoftVoting,balanced_acc,0.01912295276919563,0.008036508446534276,0.03023026832253411,0.0,True,Difference: Model A - Model B; 2-tailed p=0.0000
+Paired Bootstrap Difference,Hybrid_vs_SoftVoting,prediabetes_recall,0.34693842955694015,0.3159667467438969,0.3778746971537411,0.0,True,Difference: Model A - Model B; 2-tailed p=0.0000
+McNemar Disagreement Test,Hybrid_Corrected_vs_Stacking_Corrected,Classification Discordance,123.21174798673614,1311.0,800.0,1.2533342346110423e-28,True,"Edwards Chi2=123.21, df=1, n10=1311, n01=800"
+McNemar Disagreement Test,Hybrid_Corrected_vs_XGBoost,Classification Discordance,5107.399764364691,1763.0,9271.0,0.0,True,"Edwards Chi2=5107.40, df=1, n10=1763, n01=9271"
+McNemar Disagreement Test,Hybrid_Corrected_vs_Soft_Voting,Classification Discordance,6059.522393630256,529.0,7509.0,0.0,True,"Edwards Chi2=6059.52, df=1, n10=529, n01=7509"
+McNemar Disagreement Test,Stacking_Corrected_vs_XGBoost,Classification Discordance,5767.320714093478,1564.0,9583.0,0.0,True,"Edwards Chi2=5767.32, df=1, n10=1564, n01=9583"

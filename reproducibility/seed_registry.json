@@ -1,0 +1,72 @@
+{
+  "project": "Failure-Aware Hybrid Diabetes Surveillance Pipeline",
+  "global_random_seed": 42,
+  "python_hash_seed": "42",
+  "data_partitions": {
+    "train_test_split_seed": 42,
+    "split_ratio": "80/20",
+    "stratification_column": "Diabetes_012",
+    "n_total": 253680,
+    "n_train": 202944,
+    "n_test": 50736,
+    "set_intersection": 0
+  },
+  "cross_validation": {
+    "cv_method": "StratifiedKFold",
+    "n_splits": 5,
+    "shuffle": true,
+    "random_state": 42
+  },
+  "estimators": {
+    "LogisticRegression": {
+      "random_state": 42,
+      "solver": "lbfgs",
+      "class_weight": "balanced"
+    },
+    "DecisionTreeClassifier": {
+      "random_state": 42,
+      "criterion": "gini",
+      "max_depth": 10
+    },
+    "RandomForestClassifier": {
+      "random_state": 42,
+      "n_estimators": 100,
+      "max_depth": 19
+    },
+    "SGDClassifier": {
+      "random_state": 42,
+      "loss": "modified_huber",
+      "penalty": "l2",
+      "alpha": 0.0001
+    },
+    "XGBClassifier": {
+      "random_state": 42,
+      "objective": "multi:softprob",
+      "n_estimators": 350
+    },
+    "LGBMClassifier": {
+      "random_state": 42,
+      "boosting_type": "gbdt",
+      "n_estimators": 322
+    },
+    "CatBoostClassifier": {
+      "random_seed": 42,
+      "loss_function": "MultiClass",
+      "iterations": 587
+    },
+    "VotingClassifier": {
+      "voting": "soft",
+      "weights": null
+    },
+    "MetaLearner_Hybrid": {
+      "random_state": 42,
+      "class_weight": "balanced",
+      "C": 0.1
+    }
+  },
+  "statistical_verification": {
+    "bootstrap_resamples": 2000,
+    "bootstrap_seed": 42,
+    "mcnemar_continuity_correction": true
+  }
+}

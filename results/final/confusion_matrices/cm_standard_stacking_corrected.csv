@@ -1,0 +1,4 @@
+,Pred_NoDiabetes (0),Pred_Prediabetes (1),Pred_Diabetes (2)
+True_NoDiabetes (0),26053,10449,6239
+True_Prediabetes (1),196,376,354
+True_Diabetes (2),879,2176,4014

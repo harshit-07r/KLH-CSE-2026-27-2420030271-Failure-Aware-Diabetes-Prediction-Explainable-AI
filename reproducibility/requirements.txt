@@ -1,0 +1,19 @@
+# Failure-Aware Diabetes Surveillance Pipeline: Verified Dependency Manifest
+# Operating System: Windows 11 x64 / Linux x86_64
+# Python Version: >=3.10, <=3.12 (Audited on 3.12.4)
+
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.0
+scikit-learn==1.4.2
+xgboost==2.0.3
+lightgbm==4.3.0
+catboost==1.2.3
+optuna==3.6.1
+shap==0.45.1
+lime==0.2.0.1
+joblib==1.4.0
+matplotlib==3.8.4
+seaborn==0.13.2
+streamlit==1.35.0
+statsmodels==0.14.2
